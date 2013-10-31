@@ -14,6 +14,7 @@ Russia Since 2012
         -   Poeple have illegal demonstrations
             -   traditionally less that a week of jail time
             -   now 4-5 year prison sentences and large fines
+
         -   Navalny given suspended sentence for illegal protests and
             "embezzlement" (from a company he owns outright)
 
@@ -45,3 +46,5 @@ Russia Since 2012
     -   Anti-homosexual campaign
         -   laws against "homosexual propoganda" (makes campaign for
             change in law illegal)
+
+

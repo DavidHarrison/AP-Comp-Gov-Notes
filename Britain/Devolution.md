@@ -15,24 +15,21 @@ Why?
     -   voted down by regional voters
 
 2.  Combat Seperatism
-	-   Nationalism
-    		-   Scotland
-        	-   SNP
-        	-   \~20-30% support for independence
+    -   Nationalism - Scotland - SNP - \~20-30% support for independence
 
-    	-   Wales
-        	-   Plaid Cymraeg
-        	-   \< 10% support
+        -   Wales
+            -   Plaid Cymraeg
+            -   \< 10% support
 
-	-   Especially in Scotland
-	-   Not likely to have significant effect in Norther Ireland
+    -   Especially in Scotland
+    -   Not likely to have significant effect in Norther Ireland
 
-	-   Low population in Scotland (\~5.3 million), Wales (\~3 million), and
-    N. Ireland (\~1.8 million)
+    -   Low population in Scotland (\~5.3 million), Wales (\~3 million),
+        and N. Ireland (\~1.8 million)
 
 3.  It's Fair ("subsidarity")
-	-   Government descisions should be made at the lowest level possible
-    		-   People have more say
+    -   Government descisions should be made at the lowest level
+        possible - People have more say
 
 Not Federalism
 --------------
@@ -44,18 +41,19 @@ Not Federalism
 
 2.  Power delegated asymmetrically
 
-	-   Only Scottish Parliament can levy taxes
-	-   Scottish and Northern Irish Assembly have full power to legislate
-	-   Power: Scottish Parliament \> Northern Irish Assembly \> Welsh
-    Assembly
-	-   US: Powers delegated **upwards**
-    	-   All states have the same powers
+    -   Only Scottish Parliament can levy taxes
+    -   Scottish and Northern Irish Assembly have full power to
+        legislate
+    -   Power: Scottish Parliament \> Northern Irish Assembly \> Welsh
+        Assembly
+    -   US: Powers delegated **upwards**
+        -   All states have the same powers
 
-	-   UK: Powers delegated **downwards**
+    -   UK: Powers delegated **downwards**
 
 3.  Powers delegated are limited
 
-	-   Scotland can only tax up to 3%
+    -   Scotland can only tax up to 3%
 
 Scotland
 --------
@@ -63,24 +61,20 @@ Scotland
 1.  All domestic policy making has been devolved to the Scottish
     Parliament (much business regulation done by EU)
 
-	-   Health
-	-   Education
-    		-   Maintained free university education while Blair government
-        instituted tuition and Cameron Government raised it
+    -   Health
+    -   Education - Maintained free university education while Blair
+        government instituted tuition and Cameron Government raised it
 
-	-   Justice
-    		-   Own courts, judges and prisons
+    -   Justice - Own courts, judges and prisons
 
-	-   Taxation
+    -   Taxation
 
 2.  Power of taxation limited to 3%
 
-	-   The West Lothian Problem
-    		-   Scottish MPs vote on policy that only effects England and Wales
-        that do not effect Scotland
-    		-   No English Parliament
-    		-   Last Labour government only had majority with Welsh and Scottish
-        MPs
+    -   The West Lothian Problem - Scottish MPs vote on policy that only
+        effects England and Wales that do not effect Scotland - No
+        English Parliament - Last Labour government only had majority
+        with Welsh and Scottish MPs
 
 ### Scottish Parliament
 
@@ -136,18 +130,26 @@ Northern Ireland
         body, and in most issues will be self governing
 
 ### Northern Irish Assembly
-- Election for Northern Irish Assembly is PR
-- Parties
-	- Hardline Unionist
-	- Softer Unionist
-	- Alliance - move beyond division
-	- Softer Nationalist Party
-	- Sinn Fein - hardline nationalist (ties to IRA)
-		- elects five members of UK Parliament who refuse to take their places
-- All parties must be represented in cabinet in proportion to vote and assembly
-- Members of assembly declare Unionist, Nationalist, Other
-- To pass legislation, majority + 40% Unionist and 40% Nationalist
-- Traditionally, moderate parties win most of the vote
-- Most recent vote hardline of both won
-	- Issued ultimatum by UK Parliament; agreed to work together to maintain N. Irish independence
-	- Agree that more UK Government money should be spent in N. Ireland, want to look attractive to US investment
+
+-   Election for Northern Irish Assembly is PR
+-   Parties
+    -   Hardline Unionist
+    -   Softer Unionist
+    -   Alliance - move beyond division
+    -   Softer Nationalist Party
+    -   Sinn Fein - hardline nationalist (ties to IRA)
+        -   elects five members of UK Parliament who refuse to take
+            their places
+
+-   All parties must be represented in cabinet in proportion to vote and
+    assembly
+-   Members of assembly declare Unionist, Nationalist, Other
+-   To pass legislation, majority + 40% Unionist and 40% Nationalist
+-   Traditionally, moderate parties win most of the vote
+-   Most recent vote hardline of both won
+    -   Issued ultimatum by UK Parliament; agreed to work together to
+        maintain N. Irish independence
+    -   Agree that more UK Government money should be spent in N.
+        Ireland, want to look attractive to US investment
+
+

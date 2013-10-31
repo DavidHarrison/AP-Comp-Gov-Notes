@@ -1,47 +1,72 @@
 Table of Contents
 =================
 
-* Contents
+-   Contents
 
 General
 -------
-* Intro
-* Timed Essay
-* Terminology
-* Methodology
-* Themes
-* Taxonomy
-* Economics
-* Institutions of Democracy
-* Electoral Systems
+
+-   Intro
+-   Timed Essay
+-   Terminology
+-   Methodology
+-   Themes
+-   Taxonomy
+-   Economics
+-   Institutions of Democracy
+-   Electoral Systems
 
 US
 --
-* 9-11
-* US Government
+
+-   US Government
+
+<!--
+Country Name
+------------
+* History
+* Government
+* Political Parties
+* Civil Society
+* Culture
+* Other Relevant Items
+-->
 
 Britain
 -------
-* Government
-* Society
-* Political Parties
-* Political Economy
-* Devolution
+
+-   Government
+-   Political Parties
+-   Society
+-   Political Economy
+-   Devolution
 
 Mexico
 ------
-* History
-* Governmental Structure
-* Political Parties
-* PRI System
-* PRI Assessment
-* Challenges Facing Mexico
+
+-   History
+-   Government
+-   Political Parties
+-   PRI System
+-   PRI Assessment
+-   Challenges Facing Mexico
 
 Russia
 ------
-* Culture
-* History
+
+-   History
+-   Government
+-   Social Conditions
+-   Civil Society
+-   Parties
+-   Russian Since 2012
+-   Russian Beliefs
 
 Appendix
-------
-* Britain/Studlar
+--------
+
+-   US/9-11
+-   Britain/Studlar
+-   Russia/Culture
+-   Russia/Maps
+

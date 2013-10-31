@@ -308,77 +308,110 @@ III. Stalin's Legacy
 DeStalinzation (1953-85)
 ------------------------
 
-    - Moves from a totalitarian autocracy to an authoritarian oligarch
-    - Leaders are intent that no one will again have the all-powerful position Stalin had
-    - Succession
-        - Stalin
-        - Khrushchev (never had Stalin's power, removed in 1964) (Ukrainian)
-        - Brezhnev
+-   Moves from a totalitarian autocracy to an authoritarian oligarch
+-   Leaders are intent that no one will again have the all-powerful
+    position Stalin had
+-   Succession
+    -   Stalin
+    -   Khrushchev (never had Stalin's power, removed in 1964)
+        (Ukrainian)
+    -   Brezhnev
 
-    I.  Socialist Legalism: State will exercise repression in predictable ways consistent with the law.
-        - Dissent still disallowed
-        - Punishment still can be very cruel
-            - China even recently has sent dissentors to insane assylums, where they were drugged
-    - During WWI, on the Eastern front, few prisoners, mostly executed immeadiately (also happened in the Pacific Theater)
-    - GULAG - accronym for the organization that ran the Siberian work camps
+I.  Socialist Legalism: State will exercise repression in predictable
+    ways consistent with the law.
+    -   Dissent still disallowed
+    -   Punishment still can be very cruel
+        -   China even recently has sent dissentors to insane assylums,
+            where they were drugged
 
-    II.  1956: Khrushchev secretly denounces Stalin
+    -   During WWI, on the Eastern front, few prisoners, mostly executed
+        immeadiately (also happened in the Pacific Theater)
+    -   GULAG - accronym for the organization that ran the Siberian work
+        camps
 
-        - Eisenhower sees possibility for improved relations, however, 
+II. 1956: Khrushchev secretly denounces Stalin
+    -   Eisenhower sees possibility for improved relations, however,
 
-        A.  1956, Hungarian Communist government overthrown, with a new neutral (leaves Warsaw Pact does not join NATO) government
-            - USSR invades, imposes a new communist government that makes moves towards liberalization with worker-owned businesses and markets
-            - Dispels US hopes for improved relations
+    A.  1956, Hungarian Communist government overthrown, with a new
+        neutral (leaves Warsaw Pact does not join NATO) government
+        -   USSR invades, imposes a new communist government that makes
+            moves towards liberalization with worker-owned businesses
+            and markets
+        -   Dispels US hopes for improved relations
 
-        B.  Soviet acquiensence in the construction of the Berlin Wall
-            - Prompted by brain drain to West Berlin
+    B.  Soviet acquiensence in the construction of the Berlin Wall
+        -   Prompted by brain drain to West Berlin
 
-        C.  Cuban Missile Crisis (1962)
-            - Communists place nuclear missiles in Cuba, when US finds out, nuclear war looks possible until deal reached between Kennedy and Khruschev
+    C.  Cuban Missile Crisis (1962)
+        -   Communists place nuclear missiles in Cuba, when US finds
+            out, nuclear war looks possible until deal reached between
+            Kennedy and Khruschev
 
-        - Khruschev pushed out in 1964
+    -   Khruschev pushed out in 1964
 
-        D.  Soviet invasion of Czechasolvakia (1968)
-            - Communist party in Czechaslovakia had decided to liberalize with and become neutral
+    D.  Soviet invasion of Czechasolvakia (1968)
+        -   Communist party in Czechaslovakia had decided to liberalize
+            with and become neutral
 
-    III.  Tolerance of dissent, repect for at least some expressive rigts, varies after Stalin
-        A.  Under Khrushchev (1956-64), less censorship
-            - Some previously censored media is published
-        B.  When Brezhnev replaces Khrushchev, less tolerance and more censorship (except for a brief period in the 1970s when relations with US improve)
-            - Soviet invasion of Afghanistan increases tensions again
-                - US responds by army Mujahideen (and groups such as al-Qaeda)
+III. Tolerance of dissent, repect for at least some expressive rigts,
+    varies after Stalin
+    A.  Under Khrushchev (1956-64), less censorship
+        -   Some previously censored media is published
 
-    IV.  Tacit Social Contract
-        - In exchange for political compliance, population enjoys:
-            - Job security (even with bad performance, if fired, there are government employment agencies to prevent unemployment)
-            - Subsidized food and clothing
-            - Cheap (but pretty bad and crowded) housing
-            - Free transportation
-            - One week of vacation a year (factory sections closed, organized vacation trips)
-            - Free medical care (fairly primitive, good at some things such as basic surgery and cancer treatment, bad pharmaceuticals)
-            - Free recreational services (gyms etc.)
-            - Good educational system (most citizens get secondary education, university for those who qualify)
-        - By the mid 1970s, the weaknesses of the system were apparent:
+    B.  When Brezhnev replaces Khrushchev, less tolerance and more
+        censorship (except for a brief period in the 1970s when
+        relations with US improve)
+        -   Soviet invasion of Afghanistan increases tensions again
+            -   US responds by army Mujahideen (and groups such as
+                al-Qaeda)
 
-            A.  Leadership out of touch with Soviet society
-            	- Old (in their 80s)
-            	- Not living much better than others
-            	- Fairly sincere about socialism
+IV. Tacit Social Contract
+    -   In exchange for political compliance, population enjoys:
+        -   Job security (even with bad performance, if fired, there are
+            government employment agencies to prevent unemployment)
+        -   Subsidized food and clothing
+        -   Cheap (but pretty bad and crowded) housing
+        -   Free transportation
+        -   One week of vacation a year (factory sections closed,
+            organized vacation trips)
+        -   Free medical care (fairly primitive, good at some things
+            such as basic surgery and cancer treatment, bad
+            pharmaceuticals)
+        -   Free recreational services (gyms etc.)
+        -   Good educational system (most citizens get secondary
+            education, university for those who qualify)
+        -   By the mid 1970s, the weaknesses of the system were
+            apparent:
 
-            B.  Military spending cripples the economy, consuming resources that could be used for industrial modernization
-            	- Reagan spends hugely, putting US into debt
-            	- USSR is similar to a third world country, but has weapons
-            	1. Aging industry, wasteful of resources and dirty
-            	2. Virtually no economic growth, no improvements in living standard (after the early 1960s)
-            	3. Life expectancy (starting in the late 1970s) begins to decline (mostly alcohol)
+    A.  Leadership out of touch with Soviet society
+        -   Old (in their 80s)
+        -   Not living much better than others
+        -   Fairly sincere about socialism
 
-            C.  Workforce is alienated and frequently absent
-            	- Under the Soviets, workers practiced "storming"; rushing to fill quotas at the end of the period (month), at the expense of quality, then taking time off and relaxing for the rest of the month
+    B.  Military spending cripples the economy, consuming resources that
+        could be used for industrial modernization
+        -   Reagan spends hugely, putting US into debt
+        -   USSR is similar to a third world country, but has weapons
 
-            D.  Resentment that USSR is falling further behind the West 
-            	- Seeing media from the West, the people realize that USSR are falling behind
-                	- Had previously thought that US and USSR equal (politically both respectful of other)
-                	- See that living standard is much better in West than USSR (poverty in US similar to middle class in USSR)
+        1.  Aging industry, wasteful of resources and dirty
+        2.  Virtually no economic growth, no improvements in living
+            standard (after the early 1960s)
+        3.  Life expectancy (starting in the late 1970s) begins to
+            decline (mostly alcohol)
+
+    C.  Workforce is alienated and frequently absent
+        -   Under the Soviets, workers practiced "storming"; rushing to
+            fill quotas at the end of the period (month), at the expense
+            of quality, then taking time off and relaxing for the rest
+            of the month
+
+    D.  Resentment that USSR is falling further behind the West
+        -   Seeing media from the West, the people realize that USSR are
+            falling behind
+            -   Had previously thought that US and USSR equal
+                (politically both respectful of other)
+            -   See that living standard is much better in West than
+                USSR (poverty in US similar to middle class in USSR)
 
 Gorbachev
 ---------
@@ -393,74 +426,67 @@ I.  Instituted a Program of Radical Reform
 
     A.  Calls for a "law-governed state" in which the state (and the
         CPSU) will be subordinate to the law
-    	-   Long standing call (particularly since the death of Stalin)
-    	-   Has historical roots in call for rule of law in 1917 Revolution
-        and Khruschev calling for Socialist Legalism
-    	-   More recently, Medvedev called for rule of law during his
-        presidency
+        -   Long standing call (particularly since the death of Stalin)
+        -   Has historical roots in call for rule of law in 1917
+            Revolution and Khruschev calling for Socialist Legalism
+        -   More recently, Medvedev called for rule of law during his
+            presidency
 
     B.  Carries out electoral reform that results in competetive
         elections at the local level
-
     C.  Private enterprise legalized so long as it takes the form of
         sole proprietorship or a worker collective (illegal to employ
         others)
-    	-   Employment relationship seen as inherently exploitive
-    	-   Since 1926 (end of New Economic Policy), private enterprise has
-        not been allowed
+        -   Employment relationship seen as inherently exploitive
+        -   Since 1926 (end of New Economic Policy), private enterprise
+            has not been allowed
 
     D.  Encourages greater use of markets to allocate resources to
         production (**perestroika** - restructuring)
-    	-   Markets are (in the long term) much more efficient allocating
-        resources
+        -   Markets are (in the long term) much more efficient
+            allocating resources
 
     E.  Encourages the development of civil society groups, eliminates
         most government secrecy (excluding security) and ends most forms
         of censorship (**glastnost** - openness)
-
     F.  Negotiates significant reductions in nuclear weapons with the US
-    	-   Relations with the US improve dramatically
-    	-   Some talks of entire disarmement (Reagan opposed nuclear
-        weapons)
+        -   Relations with the US improve dramatically
+        -   Some talks of entire disarmement (Reagan opposed nuclear
+            weapons)
 
 II. In 1989 and 1990 there are elections for parliaments at the Union,
-    republic, and local levels
-
-    	-   USSR Structure:
-        	-   Union Level: Entirety of the USSR
-        	-   Republic Level: Individual Republics (Russia, Georgia,
-            Ukraine etc.)
-        	-   Federation Level
-
+    republic, and local levels - USSR Structure: - Union Level: Entirety
+    of the USSR - Republic Level: Individual Republics (Russia, Georgia,
+    Ukraine etc.) - Federation Level
     A.  In 1989, every communist regime in central and eastern Europe
         falls (almost all of them without bloodshed)
-    	-   Hungary opens borders, causing immigration to Hungary and out to
-        the West (little emmigration directly from Hungary as it was
-        comparitively well off)
-    	-   Causes Tianemen square
+        -   Hungary opens borders, causing immigration to Hungary and
+            out to the West (little emmigration directly from Hungary as
+            it was comparitively well off)
+        -   Causes Tianemen square
 
     B.  In 1990, Germany reunifies
-    	-   Under US influence (Britain and France less keen)
-    	-   US assures Russia that new states will not become part of NATO
-        (many become NATO and EU, including former USSR Baltic states)
+        -   Under US influence (Britain and France less keen)
+        -   US assures Russia that new states will not become part of
+            NATO (many become NATO and EU, including former USSR Baltic
+            states)
 
     C.  In the USSR, the elected parliaments of the republics declare
         that they are "sovereign" (not independent, but are the
         power-holding body for the their region) (look at USSR as unions
         similar to EU (not yet created) but with a military)
-    	1.  The Baltic states indicate their intention to secede from the
-        USSR
-    	2.  In April 1991, Gorbachev negotiates treaty of union with 9 of
-        the 15 Republics -- the new union will be called the
-        Commonwealth of Independent States. (It will include Russia,
-        Ukraine and Belarus) (similar to EU but with military)
-    	3.  In June 1991, Boris Yeltsin is elected president of the *Russian
-        federation* (Gorbachev still president of USSR)
-    	4.  The CPSU confronts a critical loss of authority
+        1.  The Baltic states indicate their intention to secede from
+            the USSR
+        2.  In April 1991, Gorbachev negotiates treaty of union with 9
+            of the 15 Republics -- the new union will be called the
+            Commonwealth of Independent States. (It will include Russia,
+            Ukraine and Belarus) (similar to EU but with military)
+        3.  In June 1991, Boris Yeltsin is elected president of the
+            *Russian federation* (Gorbachev still president of USSR)
+        4.  The CPSU confronts a critical loss of authority
 
 III. Following the unsuccessful coup attempt, Gorbachev returns to
     Moscow. His authority is all but gone (now with Yeltsin)
-
     -   Failed Coup:
         -   August 1991, Gorbachev on vacation at Black Sea,
             Vice-President, PM, head of the KGB, and defence minister
@@ -477,17 +503,17 @@ III. Following the unsuccessful coup attempt, Gorbachev returns to
 
     A.  Throughout the fall of 1991, the governments of the republics
         secede from the Soviet Union (many fall into conflict)
-
     B.  At the same time, government of the Russian federation takes
         control of the Soviet government ministries one at a time
-    	-   Russian ministries (previously subordinate) take over their
-        respective Soviet ministries
+        -   Russian ministries (previously subordinate) take over their
+            respective Soviet ministries
 
     C.  Russia secedes from the USSR. Leaves the USSR without any member
         states (has government, no land)
-    	-   On December 25, 1991, Gorbachev resigns as president of the USSR
-        and transfers his remaining powers to the president of Russia.
-    	-   On December 31, 1991, the USSR ceases to exist
+        -   On December 25, 1991, Gorbachev resigns as president of the
+            USSR and transfers his remaining powers to the president of
+            Russia.
+        -   On December 31, 1991, the USSR ceases to exist
 
     -   The dissolution and liberization would have seemed impossible in
         the late 1980s
@@ -521,182 +547,177 @@ Russia's Transistion to Capitalism
 I.  In 1991, Yeltsin asked Parliament for the power to carry out a plan
     of radical market oriented reform by decree; Parliament gives him
     that power
-
     A.  On 2 January, 1992, prices are decontrolled (for the first time
         since the 1920s); they immeadiately skyrocket (prices were kept
         artificially low by Soviet Union, sometimes below the cost of
         production, rationing was introduced to control)
-    	-   Prices up 2500% first year, 840% second year
-    	-   Wages cannot possibly keep up
-    	-   Yeltsin's vice president outraged; after a few months denounces
-        the program as econimic suicide
+        -   Prices up 2500% first year, 840% second year
+        -   Wages cannot possibly keep up
+        -   Yeltsin's vice president outraged; after a few months
+            denounces the program as econimic suicide
 
     B.  To respond to skyrocketing inflation, Yeltsin asks Parliament
         for even greater powers to carry out reforms; Parliament refuses
-    	-   March 1993, Parliament almost impeaches Yeltsin
+        -   March 1993, Parliament almost impeaches Yeltsin
 
     C.  In Sept. 1993, Yeltsin dissolves Parliament and calls for new
         elections (his right under Russian law)
-    	-   Members of Parliament refuse to leave the building. At first
-        Yeltsin ignores them. When armed paramilitary groups appear
-        outside the building, attack the office of the mayor and talk
-        about "seizing the Kremlin", Yeltsin orders the army to breakup
-	the demonstrators.
+        -   Members of Parliament refuse to leave the building. At first
+            Yeltsin ignores them. When armed paramilitary groups appear
+            outside the building, attack the office of the mayor and
+            talk about "seizing the Kremlin", Yeltsin orders the army to
+            breakup the demonstrators.
 
     D.  In Dec. 1993, Russian voters elect new Parliament and approve
         Yeltsin's proposed new constitution.
-    	-   This is the modern constitution, gives large amounts of power to
-        the President
-
-    	-   Millions ruined by inflation and unemployment
-    	-   Contrast to the Soviet system which guaranteed employment and
-        social services
-    	-   A few took advantage of the oppurtunities to entrepreneurship,
-        and a very few gained control becoming fabulously wealthy
-    	-   Resentment of this division developed, in part explains Putin's
-        ongoing popularity
-        	-   Also Putin does not drink alcohol (source of credibility)
+        -   This is the modern constitution, gives large amounts of
+            power to the President
+        -   Millions ruined by inflation and unemployment
+        -   Contrast to the Soviet system which guaranteed employment
+            and social services
+        -   A few took advantage of the oppurtunities to
+            entrepreneurship, and a very few gained control becoming
+            fabulously wealthy
+        -   Resentment of this division developed, in part explains
+            Putin's ongoing popularity
+            -   Also Putin does not drink alcohol (source of
+                credibility)
 
 II. During the Yeltsin years, most people were worse off economically
     than they were under Communism while a few people became wealthy.
-
     A.  Stabilization (structural adjustment or "shock therapy")
-    	1.  Cuts in state spending (takes money out of the economy to "cool"
-        it off)
-        	-   in large part military, though also in other areas
-    	2.  Increases in taxes (takes money out of the economy to "cool" it
-        off)
-        	-   enrages population already struggling to deal with inflation
+        1.  Cuts in state spending (takes money out of the economy to
+            "cool" it off)
+            -   in large part military, though also in other areas
 
-    	3.  End to protectionism
-        	-   lower tariffs/trade barriers
+        2.  Increases in taxes (takes money out of the economy to "cool"
+            it off)
+            -   enrages population already struggling to deal with
+                inflation
+
+        3.  End to protectionism
+            -   lower tariffs/trade barriers
 
     B.  Stabilization unpopular with ordinary people (hit with higher
         prices, cuts in services and end higher taxes) and with
         businesses owners who aquire businesses in the first round of
         privitization.
-    	-   Destroys economic projections of owners of inefficient Soviet
-        businesses
+        -   Destroys economic projections of owners of inefficient
+            Soviet businesses
 
     C.  The fall in real wages that takes place is expected to create
         jobs (at lower pay). Instead, consumer demand collapses --
         leading to falling production and widespread unemployment. -
         When real wages collapse, people stop buying, reducing demand,
         giving no incentive to increase production
-
     D.  The Russian government, faced with falling tax revenues, borrows
         money from the IMF. The IMF insists on further cuts in spending
         and further tax increases. This leads to more unemployment. -
         IMF is a last resort for countries (Recently, Greece and Spain
         have gotten IMF loans, Britain in 1970s)
-
     E.  Widespread privation and hunger (first time since the end of
         WWII)
-
     F.  Output per person (productivity) does not increase. Most
         businesses don't have the funds to invest in new equipment; the
         few solvent businesses have state contracts.
 
 III. Privitization
-
     -   Privitization program leads to widespread corruption and the
         transfer of state-owned assets to a few corrupt people
 
     A.  First round: privitization of small and medium enterprises
         (mostly consumer goods)
-    	-   goes well at first
-    	-   fairly clean
+        -   goes well at first
+        -   fairly clean
 
-    	1.  Every Russian citizen gets a voucher worth \~\$30, which they
-        could keep or sell
-    	2.  Vouchers could be used to buy shares in a government-owned
-        enterprise that was being privatized
+        1.  Every Russian citizen gets a voucher worth \~\$30, which
+            they could keep or sell
+        2.  Vouchers could be used to buy shares in a government-owned
+            enterprise that was being privatized
 
-    	-   Vouchers are not particularly worthwile, shares do not confer
-        voting rights, do not necessarily have right to collect
-        dividends
+        -   Vouchers are not particularly worthwile, shares do not
+            confer voting rights, do not necessarily have right to
+            collect dividends
 
-    	3.  140 million vouchers out of 148 million issued are exchanged for
-        shares, and 40 million Russians become shareholders in a
-        privatized business (suggest a large amount of vouchers were
-        sold)
+        3.  140 million vouchers out of 148 million issued are exchanged
+            for shares, and 40 million Russians become shareholders in a
+            privatized business (suggest a large amount of vouchers were
+            sold)
 
     B.  Second round: government auctions shares in enterprises with
         natural resources assets (oil, minerals, metallurgy, timber)
-    	-   these are the valuable enterprises
-    	-   government need money from auctions
-    	-   less clean
-    	-   At the end of the Soviet Union, the people running the
-        government owned banks, the senior leadership leaves, and young
-        people take over (30s - early 40s, not interested in Communism)
-        	-   These people lend themselves and their family members the
-            money necessary to buy the banks
-        	-   They use this control of the banks to buy the newly
-            privatized enterprises
-        	-   Very few people involved in bidding (\~dozen)
-        	-   These people collude to rig auctions to keep prices low
-            while keeping them looking honest
+        -   these are the valuable enterprises
+        -   government need money from auctions
+        -   less clean
+        -   At the end of the Soviet Union, the people running the
+            government owned banks, the senior leadership leaves, and
+            young people take over (30s - early 40s, not interested in
+            Communism)
+            -   These people lend themselves and their family members
+                the money necessary to buy the banks
+            -   They use this control of the banks to buy the newly
+                privatized enterprises
+            -   Very few people involved in bidding (\~dozen)
+            -   These people collude to rig auctions to keep prices low
+                while keeping them looking honest
 
-    	1.  Banks controlled by Russia's welathiest men obtained controlling
-        shares in Russia's most lucrative enterprises (oil, mining,
-        metallurgy, timber) at bargain prices ("oligarchs")
-        	-   Natural gas never privatized
+        1.  Banks controlled by Russia's welathiest men obtained
+            controlling shares in Russia's most lucrative enterprises
+            (oil, mining, metallurgy, timber) at bargain prices
+            ("oligarchs")
+            -   Natural gas never privatized
 
     C.  Third round: "loans for shares" scheme (1996)
+        -   equally corrupt to the second round
 
-    -   equally corrupt to the second round
+        1.  The government auctions off controlling shares in some of
+            the government's most lucrative enterprises in return for
+            loans to the government.
+            -   auctions are again rigged
 
-    	1.  The government auctions off controlling shares in some of the
-        government's most lucrative enterprises in return for loans to
-        the government.
-        	-   auctions are again rigged
-
-    	2.  When the government is unable to pay of the loans, these shares
-        plegded as collatoral go to the lenders
-
-    	3.  Small number of oligarchs (friends of Yeltsin) takes control of
-        the most profitable enterprises in Russia.
-        	-   Oligarchs not interested in running the enterprises
-        	-   Interested in controlling the assets and lease or sell the
-            assets
-        	-   Move the money from these sales to foreign countries
-        	-   Live large amounts of the year outside of Russia
+        2.  When the government is unable to pay of the loans, these
+            shares plegded as collatoral go to the lenders
+        3.  Small number of oligarchs (friends of Yeltsin) takes control
+            of the most profitable enterprises in Russia.
+            -   Oligarchs not interested in running the enterprises
+            -   Interested in controlling the assets and lease or sell
+                the assets
+            -   Move the money from these sales to foreign countries
+            -   Live large amounts of the year outside of Russia
 
     D.  By 1996, 90% of Russian output is produced by privately owned
         enterprises
-    	1.  Most small and medium sized businesses that produce consumer
-        products ended up in the hands of their Soviet-era managers
-        (only people interested and with the expertise to run them)
-        ("insider privitization").
-        	-   limits the number of people fired (managers less likely to
-            fire people they know)
+        1.  Most small and medium sized businesses that produce consumer
+            products ended up in the hands of their Soviet-era managers
+            (only people interested and with the expertise to run them)
+            ("insider privitization").
+            -   limits the number of people fired (managers less likely
+                to fire people they know)
 
-    	2.  Most firms are dependent on government loans or contracts to
-        survive
+        2.  Most firms are dependent on government loans or contracts to
+            survive
 
     E.  Widespread investor fraud is rampant (Russian law enforcement is
         not set up to deal with white-collar crime, similar to US
         derivatives fraud)
-
     F.  Privitization in Russia is a disaster because - China has learnt
         from Russian privitization (procedes slowly)
-    	1.  It takes place before Russia is really a market economy
-    	2.  It takes place before the state is able to regulate financial
-        markets
+        1.  It takes place before Russia is really a market economy
+        2.  It takes place before the state is able to regulate
+            financial markets
 
     G.  Privitization did **not** lead to efficiency gains or
         investement in equipment that would increase worker
         productivity.
-    	1.  Most small and medium sized companies lacked the funds (or even
-        the collatoral) to modernize
-    	2.  The oligarchs who owned assets/resource rich firms were only
-        interested in "stripping" assets
-    	3.  Most firms broke, cannot pay taxes or wages on the time (50% of
-        output sold by barter in 1998).
+        1.  Most small and medium sized companies lacked the funds (or
+            even the collatoral) to modernize
+        2.  The oligarchs who owned assets/resource rich firms were only
+            interested in "stripping" assets
+        3.  Most firms broke, cannot pay taxes or wages on the time (50%
+            of output sold by barter in 1998).
 
 IV. The Russian government falls deeply into debt, borrowing more and
     more at every higher rates of interest
-
     1.  August 1998, the ruble collapses (losing 2/3 of value); Russia
         defaults on debts
     2.  Living standards fall, unemployment hits 13%, widespread hunger
@@ -711,8 +732,8 @@ V.  Recovery begins in 1999
 
     B.  Recover does **not** result from industrialial modernization
         (does not happen to a large extent)
-    	1.  No investment in new plant or equipment
-    	2.  No change in banking or industrial management
+        1.  No investment in new plant or equipment
+        2.  No change in banking or industrial management
 
     -   In 1999, Yeltsin retires, Putin becomes president, wins
         presidency in his own right in 2000
@@ -724,38 +745,40 @@ V.  Recovery begins in 1999
 
     D.  Putin wants economic diversification and investment in
         modernization but his political policies get in the way
-    	1.  The imprisonment of Khordorkovsky and the seizure of the oil
-        assets of Yukos, has chilled entrepreneurship
-        	-   After the wave of privitizaions, Mikail Khordorkovsky, owner
-            of Yukos oil. Khordorkovsky may have gotten his wealth in
-            disreputable ways (possibly having people killed)
-        	-   Oligarchs who have stayed with the state have kept their
-            money and freedom
-        	-   Khordorkovsky supported liberal policies (economic and civil
-            rights)
-        	-   Khordorkovsky was arrested, convicted of tax fraud and sent
-            to Siberian labor camp. After five years, when he was about
-            to be released, he was again charged with embezlement, and
-            Yukos was presented with tax bill it could not afford,
-            absorbed by the government.
+        1.  The imprisonment of Khordorkovsky and the seizure of the oil
+            assets of Yukos, has chilled entrepreneurship
+            -   After the wave of privitizaions, Mikail Khordorkovsky,
+                owner of Yukos oil. Khordorkovsky may have gotten his
+                wealth in disreputable ways (possibly having people
+                killed)
+            -   Oligarchs who have stayed with the state have kept their
+                money and freedom
+            -   Khordorkovsky supported liberal policies (economic and
+                civil rights)
+            -   Khordorkovsky was arrested, convicted of tax fraud and
+                sent to Siberian labor camp. After five years, when he
+                was about to be released, he was again charged with
+                embezlement, and Yukos was presented with tax bill it
+                could not afford, absorbed by the government.
 
-    	2.  The imprisonment and death of Sergei Magnitsky & the treatement
-        of Hermitage capital has scared off foreign investment.
-        	-   American man, son of leading American communist, started
-            investment firm to invest in Russia after the collapse of
-            the Soviet Union (Hermitage Capital)
-        	-   Hermitage Capital ran afoul of Putin, and was charged with
-            tax evasion
-        	-   Hermitage Capital lawyer, Sergey Magnitsky, arrested and
-            died in Russian prison
-        	-   American Senate passed law denying visas to a list of
-            Russians believed to be involved
-        	-   In retaliation the Russian government prevents the adoption
-            of Russian children by Americans. Scared off foreign
-            investors.
+        2.  The imprisonment and death of Sergei Magnitsky & the
+            treatement of Hermitage capital has scared off foreign
+            investment.
+            -   American man, son of leading American communist, started
+                investment firm to invest in Russia after the collapse
+                of the Soviet Union (Hermitage Capital)
+            -   Hermitage Capital ran afoul of Putin, and was charged
+                with tax evasion
+            -   Hermitage Capital lawyer, Sergey Magnitsky, arrested and
+                died in Russian prison
+            -   American Senate passed law denying visas to a list of
+                Russians believed to be involved
+            -   In retaliation the Russian government prevents the
+                adoption of Russian children by Americans. Scared off
+                foreign investors.
 
-    	-   These things have prevented the influx of capital needed to
-        modernize Russia
+        -   These things have prevented the influx of capital needed to
+            modernize Russia
 
 -   Living standards in Russia have recovered since the 1990s
 
@@ -763,3 +786,5 @@ V.  Recovery begins in 1999
     -   Not as under control of government/party as KGB was
     -   More financially corrupt than the KGB
     -   Putin surrounds himself with FSB (former KGB himself)
+
+
