@@ -60,3 +60,25 @@ Putin's Policy
 
 -   As he loses support he appeals more to nationalism
 
+Religion
+--------
+
+-   Russians believe Eastern Orthodoxy is the center of Christianity
+	- after Rome fell, Roman Catholiscism lost much of its power during the dark ages (until 800-1000)
+	- rest of the world does not experience the "dark ages"
+		- Byzantine Empire lasts 1000 years longer than western Roman Empire
+		- Considers itself to be the Roman Empire
+		- speak Greek rather than Russian
+	- when Constantinople falls, Russians see the transfer of religious authority to Russian Orthodoxy
+- Stalin used feeling of purity (compared to the West) in WWII
+	- Russians are spiritual compared to the corrupted 
+- during USSR, practicing religious could not hold political positions
+- now, 50% consider themselves believers
+- 5 official religions in Russia
+	- Orthodox Christianity
+	- Islam
+	- Judaism
+	- Buddhism
+- Orthodox Church works to keep out Western Christianity
+- Church has supported Putin's nationalism
+- Putin has political capital from identifying himself as Christian

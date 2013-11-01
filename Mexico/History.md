@@ -292,15 +292,15 @@ II. State encourages industrialization and the accumulation of wealth
     G.  Rising oil prices and increased oil production in the Gulf of
         Mexico rescue the Mexican economy
 
-    1.  Mexico imports food b/c food production lags behind population
+    	1.  Mexico imports food b/c food production lags behind population
         growth
-    2.  Government spends heavily on infrastructure projects and the
+    	2.  Government spends heavily on infrastructure projects and the
         economy grows quickly
         -   most of leaders are US economics/business educated Mexicans
         -   decide that oil revenues should be used to industrialize the
             economy so that it is not dependent on oil
 
-    3.  Mexican government borrows heavily against oil earnings to
+    	3.  Mexican government borrows heavily against oil earnings to
         further industrialize economy
 
     -   In the 1980s the Saudia Arabian countries under the threat of

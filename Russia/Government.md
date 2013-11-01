@@ -350,6 +350,9 @@ I.  The Federal Assembly
             states of emergency, troop deployments overseas
 
 -   Near abroad: states USSR governed that are now independent of Russia
+	- Ukraine is heavily agricultural
+	- Russians believe Ukrainian is subset of Russian, Ukrainians believe it is independent
+	- Ukrainian politics have been messy since independence
 
 -   Recent election were rigged, though United Russia and Putin still
     are popular
