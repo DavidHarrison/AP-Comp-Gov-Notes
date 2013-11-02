@@ -1,11 +1,8 @@
-Table of Contents
-=================
-
+# Table of Contents
+-   Title Page
 -   Contents
 
-General
--------
-
+## General
 -   Intro
 -   Timed Essay
 -   Terminology
@@ -16,34 +13,17 @@ General
 -   Institutions of Democracy
 -   Electoral Systems
 
-US
---
-
+## US
 -   US Government
 
-<!--
-Country Name
-------------
-* History
-* Government
-* Political Parties
-* Civil Society
-* Culture
-* Other Relevant Items
--->
-
-Britain
--------
-
+## Britain
 -   Government
 -   Political Parties
 -   Society
 -   Political Economy
 -   Devolution
 
-Mexico
-------
-
+## Mexico
 -   History
 -   Government
 -   Political Parties
@@ -51,23 +31,18 @@ Mexico
 -   PRI Assessment
 -   Challenges Facing Mexico
 
-Russia
-------
-
+## Russia
 -   History
 -   Government
 -   Social Conditions
 -   Civil Society
+-   Media
 -   Parties
 -   Russian Since 2012
 -   Russian Beliefs
 -   Near Abroad
 
-Appendix
---------
-
+## Appendix
 -   US/9-11
 -   Britain/Studlar
 -   Russia/Culture
--   Russia/Maps
-
