@@ -329,17 +329,17 @@ I.  The Federal Assembly
                 -   6-7% - 2 seats
                 -   7%+ - seats in proportion to share of vote
 
-                1.  Reforms keep out liberal parties (increases
-                    competition amongst liberal parties keeping them
-                    below the threshold) - Only significant competitor
-                    to United Russia is the Communist Party
-                2.  State Duma approval is needed for the president's
-                    nominees for PM, and head of the central bank
-                3.  Duma was elected for four year terms, but starting
-                    in 2011, the Duma is elected for a five-year term
-                4.  The President can dissolve the Duma, and call for
-                    new elections under certain circumstances - All of
-                    this is established in the constitution
+            1.  Reforms keep out liberal parties (increases competition
+                amongst liberal parties keeping them below the
+                threshold) - Only significant competitor to United
+                Russia is the Communist Party
+            2.  State Duma approval is needed for the president's
+                nominees for PM, and head of the central bank
+            3.  Duma was elected for four year terms, but starting in
+                2011, the Duma is elected for a five-year term
+            4.  The President can dissolve the Duma, and call for new
+                elections under certain circumstances - All of this is
+                established in the constitution
 
     C.  Federation Council
         -   166 members (tow from each region)
@@ -350,9 +350,10 @@ I.  The Federal Assembly
             states of emergency, troop deployments overseas
 
 -   Near abroad: states USSR governed that are now independent of Russia
-	- Ukraine is heavily agricultural
-	- Russians believe Ukrainian is subset of Russian, Ukrainians believe it is independent
-	- Ukrainian politics have been messy since independence
+    -   Ukraine is heavily agricultural
+    -   Russians believe Ukrainian is subset of Russian, Ukrainians
+        believe it is independent
+    -   Ukrainian politics have been messy since independence
 
 -   Recent election were rigged, though United Russia and Putin still
     are popular
