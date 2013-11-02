@@ -32,12 +32,12 @@ II. Elections by Proportional Representation (PR)
     D.  Duverger's Law: tends to produce a multi-party system and (in
         parliamentry systems) coallition governments
 
-            Presiden tial Parliame    ntry
-          ---------- ---------------- -------------------------------------
+                     Presidential     Parliamentry
+          ---------- ---------------- -----------------------------------------
                 FPTP US               UK
                   PR Russia           Italy, Netherlands, Germany, Israel
                Mixed Mexico           
-            Less Pow erful More Pow   erful (necessary majority for PM)
+                     Less Powerful    More Powerful (necessary majority for PM)
 
 Bicameral Legislatures: two houses
 ----------------------------------
