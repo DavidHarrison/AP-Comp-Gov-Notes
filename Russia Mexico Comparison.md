@@ -1,14 +1,111 @@
 # Russia-Mexico Comparison
-- Both once one-party states
+- Both once one-party states for most of the 20th century
 - Mexico is never as repressive as Russia
 	- Mostly not violent (executions, imprisonment etc.)
+	- censorship is informal (ads pulled etc.)
 
 ## Mexico
 Economic Slowdown > Oil Boom > Economic Crisis > Economic Liberalization > Political Liberalization
-- Forced to privatize to pay debts
+- Economic Slowdown: 1960s to early 1970s
+- Oil Boom: Borrow heavily against future oil revenues
+- Economic Crisis: When oil prices fall, unable to pay debts, IMF becomes involved under harsh terms
+	- 1980s
+	- happened in Russia in 1990s
+	- forced to privatize to pay debts
+- Economic Liberalization: market becomes more competetive with less government involvement
+	- privitization of SOEs (state-owned enterprises)
+	- adoption of an export-led growth model of development
+		- NAFTA
+		- WTO
+		- follow east Asian model
+	- deregulation of business
+	- end of subsidies, which had kept wages down and profits up
+- Political Liberalization:
+	- forced by economic liberalization
+		- PRI has less money
+	- NGOs develop to help with urban poverty and corruption, which pressures the government for liberalization
+		- stems from 1988 election (PRD cheated out of victory)
+		- secure voter IDs
+		- independent electoral organization (IFE)
+		- public financing of campaign
+		- PR
+			- prevents a 2/3 majority, hard for a majority
+		- effective end to censorship
+		- quotas for women candidates
+		- elections for mayor of Mexico City (Russia governors?)
+		- decentralization (moves responsibilty away from the central government)
+		- results in loss of power for PRI
+	- informal sector grows
+	- PRI machine persists, particularly in southern Mexico
+		- back in power because of the drug war
+		- continues to support economic liberalization
+			- Calderon pushes through labor market reform with PRI support
+				- makes part-time employment and firing easier
+			- education reform supported by all parties
+			- attempt to breakup monopolies
+			- fiscal reform (move burden away from PEMEX to free it up for development)
 
 ## Russia
-Economic Stagnation > Limited Economic Reform > Political Reform > Economic Liberalization > Economic Crisis > "Reassertion" of greater political and economic control of the state
+Economic Stagnation > Limited Economic Reform > Political Reform > Economic Liberalization > Economic Crisis/Rise of the Oligarchs > "Reassertion" state authority
 - Political reform happens before economic reform (reverse of Mexico)
 - Political liberalization causes USSR to breakup
 - Economic liberalization done on an ideological basis (not out of necessity like Mexico)
+- Economic Stagnation
+	- Brezhnev
+	- greater use of markets for allocation
+		- no real use of profits or price signals
+	- private enterprise (only without employees)
+- Limited Economic Reform
+	- Gorbachev
+- Political Reform
+	- Gorbachev
+	- end to censorship and government secrecy (glasnost)
+	- attempt to establish a "law-governed state" (common basis of support for Shariah)
+	- competitive elections at local level; later at all levels
+	- gets ahead of Gorbachev's ability to manage it
+		- declarations of sovereignty
+		- new union of 9 of 15 republics
+		- coup by hard-line Communists
+		- all states want out
+- Rapid Economic Liberalization
+	- leads to economic crisis
+- Economic Crisis/Rise of the Oligarchs
+	- huge amounts of inflation
+		- destroys living standards (down 40-50%)
+		- unemployment, which had not existed during the Communist era (13-14%)
+		- failure of payout
+	- privatization of SOEs
+		- most go to a few well positioned people
+	- end to central economic planning
+	- opening of the economy to imports
+		- discipline market
+		- give cheaper goods to consumers
+	- little regulation of business or banking
+	- growth in organized crime
+- Reassertion of state authority
+	- Putin's legitimacy
+		- restoring state authority
+		- bringing oligarchs to heel
+		- restorying prosperity
+	- economy improves
+		- not as a result of policy
+		- prices of oil and gas rise (similar to Mexico)
+			- China (and India) begin to consume
+		- 2008 crisis
+			- Russian government has enough money to stimulate the economy
+			- natural gas prices do not fall
+		- no modernization, despite promises by Putin and Medvedev
+			- idea to move towards an industrial economy like China
+			- ultimate transition to services
+			- politics gets in the way
+				- unfriendly to business people, meaning they do not keep their money in Russia
+	- Putin's regime
+		- widespread electoral fraud
+		- crackdown on demonstrators
+		- use of phony opposition (Just Russia party)
+		- pretends to be the opposition supporting unpopular policy
+		- centralization of power
+			- terrorism used as an excuse to centralize power
+			- 7 districts
+			- seen in United States
+		- appeals to xenophobia, anti-Westernism and homophobia
