@@ -37,7 +37,7 @@ Mexican Independence
 
 -   1810
 -   Symbolized by Fr. Miguel Hidalgo y Costilla
--   Succeeded by Fr. Jose Maria Mroleo y Paron
+-   Succeeded by Fr. José María Morelos y Pavon
 -   at that point spread well into modern US
 -   first constitution abolished slavery
     -   Texans revolted since they owned slaves
@@ -57,13 +57,13 @@ Mexican Independence
 
 -   1857 adopted new constitution
     -   basic rights
-    -   seperation of church and states
+    -   seperation of church and state
 
 Porfirato
 ---------
 
 -   1875 - 1910
--   Rule of Poririo Diaz
+-   Rule of Porfirio Díaz
 -   Domination of Mexican economy by foreign capitalists (mostly from
     US)
 -   government paid of by foreign capitalists
@@ -157,17 +157,17 @@ Constitution
                 grounds
 
         -   government creates local and national organizations for
-            industrial workers and ejiditarios (later opene to all
+            industrial workers and ejiditarios (later opened to all
             peasants ("campazinos") and affiliates of these
             organizations with the PRI. (Initially to allow voice of the
             campazinos to be heard): creates and arms ejiditario
             militias to fight land owner's forces.
 
--   Emergence of the features of the on-party regime from the 1940s to
+-   Emergence of the features of the one-party regime from the 1940s to
     the 1990s
     -   Labor and peasant unions are not autonomous; depend on the
         federal government for resources and organization (association
-        of unions with the PRI beomces a way to control the workers
+        of unions with the PRI becomes a way to control the workers
         through co-option of the labor leaders)
     -   Presidentialismo: a strong president with sweeping powers (on
         paper, Mexican govt. looks similar to US system, but PRI has
@@ -179,7 +179,7 @@ Constitution
     -   Corporatism: oranizations represent sectors of the economy
         (industrial workers, peasants, white-collar workers, business
         etc.)
-        -   groups negotiate with gobernmenn tfor things such as wage
+        -   groups negotiate with government for things such as wage
             increases
 
     -   Mexico does not have true corporatism
@@ -230,7 +230,7 @@ II. State encourages industrialization and the accumulation of wealth
             b.  this allows businesses to pay low wages and earn high
                 profits
 
-        4.  high tariffs (keeps out foreing competition)
+        4.  high tariffs (keeps out foreign competition)
         5.  government establishes state-owned power plants, oil
             refineries, steel mills and cement factories, these sell
             their goods/services to businesses at low-cost to businesses
@@ -252,16 +252,18 @@ II. State encourages industrialization and the accumulation of wealth
         3.  Allows importation of farm machinery
         4.  More areas brought under cultivation
             -   during Green Revolution (new crops have greater yields)
-            -   Problems: - require petro-chemicals - costly when oil
-                costs rise - bad for the environment - depletes ground
-                water
+            -   Problems:
+	    		- require petro-chemicals
+			- costly when oil costs rise 
+			- bad for the environment
+			- depletes ground water
 
     E.  Organized labor is controlled through the PRI
         1.  Strikes are legally restricted
         2.  Labor leaders have access to political leaders and benefit
             personally by being able to distribute cash, jobs, food,
             contracts, apartements etc.
-            -   take for granted to be corrupt by population
+            -   taken for granted to be corrupt by population
 
         3.  Mexican industrial workers are relatively well of resulting
             in labor peace
@@ -466,7 +468,7 @@ II. Felipe Calderón (PAN) v. Andrés Manuel López Obrador (PRD) (PRI
     distant third) - 2006 Election
     -   initial count Calderón 1/3% of vote
     -   Obrador demands recount by IFE because of marked ballots found
-        in trash; IFE decides Calderón has still one after extrapolated
+        in trash; IFE decides Calderón has still won after extrapolated
         9% recount
     -   Obrador leads protest during and after recount (mass disruption)
         (Obrador claims to have won to this day)

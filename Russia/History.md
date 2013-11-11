@@ -30,7 +30,7 @@ Tsarist Russia
 
 -   Peasants in Russia lived in communal farming villages, called mir
     (мир) (means village, world, peace)
-    -   Mir slowly broken up into commercial farms after 1900s)
+    -   Mir slowly broken up into commercial farms after 1900s
 
 -   Industrialization largely conducted by government
     -   Joint-stock companies with foreign investors (mostly from
@@ -60,7 +60,7 @@ Tsarist Russia
         socialism
     -   Dispute over which was bigger (most likely Mensheviks)
     -   Bolsheviks lead by V.I. Lenin
-    -   Slogan: Land, Peace and Break
+    -   Slogan: Land, Peace and Bread
 
 Leninist Ideology
 -----------------
@@ -79,7 +79,7 @@ Leninist Ideology
     before the descision is made at the top of the party (centralism)
     after that, no dissent is tolerated (discipline to win fight against
     government).
-2.  Vanguard Pary -- intellectuals from the bourgeoisie "go over" to the
+2.  Vanguard Party -- intellectuals from the bourgeoisie "go over" to the
     proleteriat. Intellectuals have a "more objective" and better
     informed understanding of their society, and what needs to be done
     to bring about socialism, than anyone else; they are in the best
@@ -273,14 +273,15 @@ III. Stalin's Legacy
             in 1st) in a call-in program of the greatest Russian in
             history
 
-    D. Censorship and party control of the arts - Did not like abstract
-    art - All music had to be cheerful (forced Chotzokovik to apologize
+    D. Censorship and party control of the arts
+    	- Did not like abstract art
+    	- All music had to be cheerful (forced Chotzokovik to apologize
     for a gloomy symphony which promoted defeatism)
 
     E. Inefficient, high bureacratic centralized planning of the economy
     1.  Labor deployed inefficiently and workers have high rates of
         absenteeism
-        -   In a planned economy, cost efficieny is not important,
+        -   In a planned economy, cost efficiency is not important,
             however, a quota must be met, leading to workers being
             hoarded
             -   If workers produce anything, they are kept
@@ -305,10 +306,10 @@ III. Stalin's Legacy
     -   Stalin died in 1953, entombed with Stalin (later buried in the
         garden outside)
 
-DeStalinzation (1953-85)
+De-Stalinzation (1953-85)
 ------------------------
 
--   Moves from a totalitarian autocracy to an authoritarian oligarch
+-   Moves from a totalitarian autocracy to an authoritarian oligarchy
 -   Leaders are intent that no one will again have the all-powerful
     position Stalin had
 -   Succession
@@ -353,7 +354,7 @@ II. 1956: Khrushchev secretly denounces Stalin
         -   Communist party in Czechaslovakia had decided to liberalize
             with and become neutral
 
-III. Tolerance of dissent, repect for at least some expressive rigts,
+III. Tolerance of dissent, repect for at least some expressive rights,
     varies after Stalin
     A.  Under Khrushchev (1956-64), less censorship
         -   Some previously censored media is published
@@ -455,9 +456,11 @@ I.  Instituted a Program of Radical Reform
             weapons)
 
 II. In 1989 and 1990 there are elections for parliaments at the Union,
-    republic, and local levels - USSR Structure: - Union Level: Entirety
-    of the USSR - Republic Level: Individual Republics (Russia, Georgia,
-    Ukraine etc.) - Federation Level
+    republic, and local levels
+    	- USSR Structure:
+		- Union Level: Entirety of the USSR
+    		- Republic Level: Individual Republics (Russia, Georgia, Ukraine etc.)
+    		- Federation Level
     A.  In 1989, every communist regime in central and eastern Europe
         falls (almost all of them without bloodshed)
         -   Hungary opens borders, causing immigration to Hungary and
@@ -601,7 +604,7 @@ II. During the Yeltsin years, most people were worse off economically
     B.  Stabilization unpopular with ordinary people (hit with higher
         prices, cuts in services and end higher taxes) and with
         businesses owners who aquire businesses in the first round of
-        privitization.
+        privatization.
         -   Destroys economic projections of owners of inefficient
             Soviet businesses
 
@@ -625,7 +628,7 @@ III. Privitization
     -   Privitization program leads to widespread corruption and the
         transfer of state-owned assets to a few corrupt people
 
-    A.  First round: privitization of small and medium enterprises
+    A.  First round: privatization of small and medium enterprises
         (mostly consumer goods)
         -   goes well at first
         -   fairly clean
@@ -690,7 +693,7 @@ III. Privitization
         1.  Most small and medium sized businesses that produce consumer
             products ended up in the hands of their Soviet-era managers
             (only people interested and with the expertise to run them)
-            ("insider privitization").
+            ("insider privatization").
             -   limits the number of people fired (managers less likely
                 to fire people they know)
 
@@ -701,7 +704,7 @@ III. Privitization
         not set up to deal with white-collar crime, similar to US
         derivatives fraud)
     F.  Privitization in Russia is a disaster because - China has learnt
-        from Russian privitization (procedes slowly)
+        from Russian privatization (procedes slowly)
         1.  It takes place before Russia is really a market economy
         2.  It takes place before the state is able to regulate
             financial markets
@@ -721,7 +724,7 @@ IV. The Russian government falls deeply into debt, borrowing more and
     1.  August 1998, the ruble collapses (losing 2/3 of value); Russia
         defaults on debts
     2.  Living standards fall, unemployment hits 13%, widespread hunger
-    3.  Collapse of ruble helps Russian producers -- Russians only made
+    3.  Collapse of ruble helps Russian producers -- Russians only bought 
         Russian-made goods because imports are too expensive -- Russian
         exports now cheaper and more likely to be purchased.
 
@@ -730,7 +733,7 @@ V.  Recovery begins in 1999
     A.  Recovery is due almost entirely to an increase in the global
         price of oil and natural gas
 
-    B.  Recover does **not** result from industrialial modernization
+    B.  Recovery does **not** result from industrialial modernization
         (does not happen to a large extent)
         1.  No investment in new plant or equipment
         2.  No change in banking or industrial management
@@ -747,7 +750,7 @@ V.  Recovery begins in 1999
         modernization but his political policies get in the way
         1.  The imprisonment of Khordorkovsky and the seizure of the oil
             assets of Yukos, has chilled entrepreneurship
-            -   After the wave of privitizaions, Mikail Khordorkovsky,
+            -   After the wave of privatizations, Mikail Khordorkovsky,
                 owner of Yukos oil. Khordorkovsky may have gotten his
                 wealth in disreputable ways (possibly having people
                 killed)

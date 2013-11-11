@@ -1,0 +1,2 @@
+- more oil polution happens in Niger Delta than in the 1989 Alaskan Crisis
+- practices of oil businesses would not be tolerated in the West
