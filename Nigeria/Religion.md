@@ -1,0 +1,3 @@
+- becuase of the terrible economic conditions of the 1990s, men in both parts of the country find religion
+	- in the south; born-again style Christianity
+	- in the north; stricter Islam

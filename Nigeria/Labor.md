@@ -1,0 +1,3 @@
+- Nigeria does not have a labor (quickly growing population, little industry)
+	- strikes difficult
+- only sector with a labor shortage is oil

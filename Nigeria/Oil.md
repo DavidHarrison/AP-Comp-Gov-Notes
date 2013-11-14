@@ -1,2 +1,6 @@
 - more oil polution happens in Niger Delta than in the 1989 Alaskan Crisis
 - practices of oil businesses would not be tolerated in the West
+- imports food to feed its people
+- other countries do not accept Nigerian currency and demand a "hard" currency
+- to get this "hard" currency, it must sell oil
+- government owns the oil, all pumping, processing etc. is done by foreign MNCs

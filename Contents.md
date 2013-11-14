@@ -42,8 +42,12 @@
 -   Russian Beliefs
 -   Near Abroad
 
+## Nigeria
+-   Demography
+-   History
+
 ## Appendix
 -   US/9-11
 -   Britain/Studlar
 -   Russia/Culture
--   Russia Mexico Comparison
+-   Nigeria/Oil
