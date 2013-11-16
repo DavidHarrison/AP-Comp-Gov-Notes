@@ -1,0 +1,6 @@
+- Two major groups in the north: Boko Haram and Ansaru
+	- Boko Haram
+		- is a name by disapproving locals meaning Western education banned
+		- say that polio vaccinations are a plot to sterilize the North
+		- more moderate of the two
+	- Ansaru

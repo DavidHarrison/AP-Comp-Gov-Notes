@@ -1,0 +1,3 @@
+- PDP has been a clientilist party (similar to PRI)
+	- based on old Northern ruling party
+	- has controlled primaries

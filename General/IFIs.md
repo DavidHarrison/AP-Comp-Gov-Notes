@@ -12,3 +12,4 @@
 	- regional banks give loans and other countries (China) will give loans
 - always run by an American
 	- under Obama, run by a Korean-born American (meant to be a step towards inclusion)
+		- was almost Ngozi Okonjo-Iweala (Nigerian) during her second term

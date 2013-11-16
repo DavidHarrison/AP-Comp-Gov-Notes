@@ -1,12 +1,16 @@
 Nigeria Since 1999
 ==================
 
+-   PDP has been a clientilist party
+    -   based on old Northern ruling party
+
 I.  Obasanjo’s First Term (1999-2003)
     A.  Cabinet includes “big men” (mostly from North)
         1.  Corrupt businessmen and politicians who brought down 1st
             colluded with Babangida and Abacha
-        2.  No prosecution of these men possible
+        2.  No prosecution of these men possible (too powerful)
         3.  Their presence in the Cabinet had little effect on policy
+            (mostly there to collect "rents")
 
     B.  Cabinet also includes Ngozi Okonjo-Iweala (World Bank economist)
         as Finance Minister
@@ -23,6 +27,8 @@ I.  Obasanjo’s First Term (1999-2003)
     C.  Obasanjo nearly removed from office by impeachment in 2003
         1.  Obasanjo avoided removal by apologizing to National Assembly
             (his supporters also likely paid off a few Senators)
+            -   has lead following Presidents to respect the NA more
+
         2.  Obasanjo ensures that impeachment leaders not nominated in
             PDP primary elections in 2003
         3.  Nonetheless, Obasanjo more respectful of National Assembly
@@ -30,6 +36,10 @@ I.  Obasanjo’s First Term (1999-2003)
 
     D.  Establishment of the Economic and Financial Crimes Commission
         (EFCC) under Nuhu Ribadu
+        -   Ribadu has a reputation for honesty
+        -   begins to target high profile politicians en masse
+        -   when he gets close to the "big men" (who really control the
+            federal government) his department is restricted
 
 II. Obasanjo’s Second Term (2003-2007)
     A.  Ribadu begins to prosecute many Nigerian politicians, including
@@ -41,6 +51,9 @@ II. Obasanjo’s Second Term (2003-2007)
 
     B.  Obasanjo tries unsuccessfully to persuade National Assembly to
         amend constitution to allow him to seek a third term
+
+    -   Potentially dangerous to allow more terms in countries like
+        Nigeria
         1.  Measure defeated in Senate after intense lobbying by
             Vice-President Attiku Abubakar
         2.  Obasanjo then blocks Abubakar from becoming 2007 PDP
@@ -53,16 +66,28 @@ II. Obasanjo’s Second Term (2003-2007)
 
         4.  Abubakar runs as the candidate of the “liberal democratic”
             Action Congress (later the Action Congress of Nigeria)
+
+        -   traditionally a southern candidate, potential to benifit
+            from a northern candidate
             a.  EFCC investigation results in Abubakar’s removal from
                 the ballot
+
+        -   shows change to political institution
             b.  Supreme Court orders Abubakar’s name put back on ballot;
                 ballots must be reprinted
+
+        -   ballots printed in South Africa and kept under ZA and NG
+            military to prevent pre-marking
 
     C.  2007 Presidential, National Assembly, state and local elections
         regarded as the most fraudulent in Nigerian history
         1.  Independent National Electoral Commission (INEC) and the
             courts annul the results of dozens of senate and
             gubernatorial elections, but not the presidential election
+
+        -   polls suggest that Yar'Adua would have won anyway (though
+            polls in Nigeria are problematic)
+
         2.  Lots of state and local officials (inc. a number of PDP
             governors) prosecuted for corruption
 
@@ -70,7 +95,8 @@ II. Obasanjo’s Second Term (2003-2007)
 
 III. Yar’Adua’s Presidency (2007-2010)
     A.  Yar’Adua’s Inauguration is the first successful transfer of
-        power between civilians in Nigerian history
+        power between civilians in Nigerian history (despite not being
+        substantially democratic)
     B.  Henry Okah (head of MEND) captured; while in prison, he
         negotiates a peace and amnesty agreement between MEND and the
         Nigerian government
@@ -79,14 +105,15 @@ III. Yar’Adua’s Presidency (2007-2010)
         2.  When promised education and jobs fail to materialize (during
             Yar’Adua’s long illness) the fighters begin to drift away
             from the camps and into the Delta’s criminal gangs
-        3.  Jonathan has attempted to carry out the agreement and keep
-            the peace process alive, but Delta is rife with “oil
-            bunkering” and kidnapping for ransom, and (as of 2013) there
-            are threats of renewed MEND violence
+        3.  Jonathan (and Ijaw from the Delta) has attempted to carry
+            out the agreement and keep the peace process alive, but
+            Delta is rife with “oil bunkering” and kidnapping for
+            ransom, and (as of 2013) there are threats of renewed MEND
+            violence
 
     C.  Most violence in Nigeria now comes from other sources
-        1.  Two jihadi groups in northern Nigeria – Boko Haram and
-            Ansaru
+        1.  Two jihadi groups in northern Nigeria – Boko Haram
+            (north-east) and Ansaru
             a.  Boko Haram’s first leader did in police custody in 2009
                 after a failed armed insurrection
             b.  Boko Haram has conducted military actions, jail breaks
@@ -97,7 +124,8 @@ III. Yar’Adua’s Presidency (2007-2010)
             herders (recently arrived in area)
         3.  Excessive and arbitrary violence by Nigerian armed forces,
             and serious human rights violations, complicate peace-making
-            in all regions of Nigeria
+            in all regions of Nigeria (and potentially give recruiting
+            potential to terrorist groups)
 
     D.  Yar’Adua developed pericarditis in Nov. 2009, and left for
         treatment in Saudi Arabia. His departure left a power vacuum.
@@ -113,10 +141,12 @@ III. Yar’Adua’s Presidency (2007-2010)
             Jonathan
 
 IV. Jonathan’s Presidency (2010-present)
-    A.  Jonathan became acting president in Feb. 2012 and succeeded to
+    A.  Jonathan became acting president in Feb. 2010 and succeeded to
         the presidency when Yar’Adua died in May 2010.
         1.  Fired most of Yar’Adua’s Cabinet but reappointed key
             Yar’Adua and PDP supporters
+            -   shows that he has nothing against Yar'Adua or the north
+
         2.  Announced plans to reform power sector by inviting
             investment by private and foreign investors
 
@@ -125,11 +155,38 @@ IV. Jonathan’s Presidency (2010-present)
         1.  Won 77.7% of vote in PDP primary
         2.  Won 58.8% of vote in general elections generally regarded as
             unusually free and fair
+
+        -   wins every state in the south and middle belt except one
+            (won by Ribadu)
+        -   north is swept by a northern candidate
+
         3.  Violence during first phase of election forced delays in
             later phases of election
         4.  Riots in north followed Jonathan’s inauguration
 
     C.  Ngozi Okonjo-Iweala appointed Finance Minister
+        -   shows Jonathan's commitment to liberalization and fighting
+            corruption
+
+        -   Electricity
+            -   electricity is unstable in Nigeria, which makes it
+                difficult to attract industry
+            -   idea to allow private investment to improve system
+
+        -   Oil
+            -   more contentious
+
+        -   Price Subsidies
+            -   Nigerian government sells oil to multi-nationals
+            -   government buys back the oil and sells it to consumers
+                at subsidized rates
+            -   many countries have found that subsidies are
+                innefficient at helping the poor - in Tehran, where oil
+                is subsidized, when it is hot, people drive around with
+                the AC on
+                -   subsidies not only help the poor but also the middle
+                    class
+
         1.  Plans to eliminate fuel subsidies (a lucrative opportunity
             for graft as well as a distortion of the market) thwarted by
             strikes and riots requiring military patrols in Nigerian

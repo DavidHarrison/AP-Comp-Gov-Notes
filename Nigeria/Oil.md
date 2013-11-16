@@ -1,4 +1,5 @@
-- more oil polution happens in Niger Delta than in the 1989 Alaskan Crisis
+- more oil polution happens in Niger Delta than in the 1989 Alaskan Crisis Exxon Valdiz (largest spill until BP Gulf Spill)
+	- oil is not cleaned up and makes farming difficult
 - practices of oil businesses would not be tolerated in the West
 - imports food to feed its people
 - other countries do not accept Nigerian currency and demand a "hard" currency
