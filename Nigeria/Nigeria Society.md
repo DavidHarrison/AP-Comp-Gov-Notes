@@ -1,0 +1,47 @@
+- Military regimes
+- oil price collapse
+- lots of hardship
+- people turn to religion (generally stricter)
+	- Saudis finances preachers to preach their stricter branch of Islam around the world
+	- Born-again Christian's in the south
+	- accentuates differences and becomes divisive
+- Christians in the south see military governments as against them
+	- historically, governments have been run by the north
+	- early on, governments made attempts to appear even-handed
+	- Buhari starts appealing to north
+- growing fear in the south that north is not interested in the secularism of the state
+- three sources of authority in Islam
+	- Qu'ran: word of God, as revealed to Muhammad by an Archangel, written by a scribe
+		- Shiite more flexible on the ability to interpret Qu'ran
+	- Hadith: sayings of Muhammad (last of 28 prophets)
+		- important, but not word of God
+	- Shari'a
+		- some directly from Qu'ran, some interpreted from Qu'ran
+- in the 1990s, there was a growing movement for the institution of Shari'a
+	- Since the prevalence of Islam in the north (1500s), religious courts solved civil disputes between Muslims
+		- if the dispute included a non-Muslim, the dispute was resolved under Common Law (from British)
+		- in the south Common Law is used throughout
+	- non-Muslims are still under secular law
+		- if a Muslim and non-Muslim commit a crime together, they face a different court system
+			- this causes a problem in a country that is expected to treat all equally
+	- in the north, the secular courts are seen as corrupt
+		- belief that religious courts will be accountable to God and not involved in secular issues
+- in the 1990s the Ogoni (living around oil production) started protests to get better treatment by government
+	- led by Ken Saro-Wiwa
+		- Nigeria suspended from Commonwealth
+	- have formed armed movements like MEND
+		- got money from "oil bunkering" (tapping oil) and kidnapping (mostly foreign oil workers)
+			- some done for political reasons, some done for money
+			- only times hostages were killed was when the government intervened
+	- military heavy-handidness has made insurgency worse
+	- in 2009, MEND militants were to report to camps
+		- recieve amnesty
+		- get job training etc.
+		- when Yar'adua becomes sick, program falls apart and militants leave to the gangs
+			- Jonathan makes an effort to recover program, only partially successful
+		- possibility that MEND will reform
+
+## National question: How should Nigeria be governed, given its diversity?
+	- little question about whether Nigeria should be a country (all want access to oil revenue)
+	- what should the institutions be?
+	- how can all of the nations work together without believing they have been cheated?
