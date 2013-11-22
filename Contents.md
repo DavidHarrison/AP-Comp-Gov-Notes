@@ -50,4 +50,4 @@
 -   US/9-11
 -   Britain/Studlar
 -   Russia/Culture
--   Nigeria/Oil
+-   Nigeria/

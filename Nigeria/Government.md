@@ -95,5 +95,55 @@ IV. State and local governments not independent of the fedral government
         -   in reality, gives local elites access to resources and
             greater oppurtunities for dispensing rents (jobs, contracts,
             cash, etc.) to supporters
-	1.  State and local governments are an exercise in clientilism and corruption
-	2.  None the less key problems have emerged at the state and local levels (Boko Haram, MEND, etc.)
+
+    1.  State and local governments are an exercise in clientilism and
+        corruption
+    2.  None the less key problems have emerged at the state and local
+        levels (Boko Haram, MEND, etc.)
+
+The Nigerian National Assembly
+------------------------------
+
+I.  Current structure (Fourth Republic)
+    A.  House of Representatives (lower house)
+        -   360 Reps elected by FPTP
+        -   Nigeria still has issues with conducting a census (states
+            will skew figures to get advantage in distribution)
+
+    -   Women
+        -   possible marker of liberalization
+        -   8 in 1999, 27 in 2007, 23 in 2011
+        -   from both North ans South
+
+    B.  The Senate (upper house)
+        -   109 -- 3 elected from each state and 1 elected from National
+            Capital Terr.
+
+    -   Women: 5 in 2007, 7 in 2011
+
+II. Historically, not significant in Nigeria
+    A.  In military regines, legiature was disbanded or ignored
+    B.  In elected regimes, it has always been dominated by the same
+        party as the President (or PM)
+    C.  The national assebly must approve the budget (proposed by the
+        President)
+        1.  President control access of legislators from his party to
+            party funds (used for reelection campaign and pay off
+            supporters)
+
+        2.  President controls the personal allowances of *all*
+            legislators
+            -   theoretically a check D. The National Assembly gains
+                some power as a result of the 2003 impeachement crisis
+
+    D.  The National Assembly gains some power as a result of the 2003
+        impeachment crisis
+        -   in 2001, Obasanjo, impounded budget to prevent running a
+            deficit during SAP
+            -   Obasanjo was impeached by the legislature
+            -   not removed from office (Senators bribed)
+            -   Obasanjo apologizes for impounding the funds
+
+        -   NB: All PDP legislators who voted against Obasanjo lose in
+            2003 PDP primaries and are *not* renominated as PDP
+            legislative candidates
