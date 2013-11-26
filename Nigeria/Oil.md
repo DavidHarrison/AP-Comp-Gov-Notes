@@ -5,3 +5,4 @@
 - other countries do not accept Nigerian currency and demand a "hard" currency
 - to get this "hard" currency, it must sell oil
 - government owns the oil, all pumping, processing etc. is done by foreign MNCs
+- during the oil boom, 70% of the revenue went to individuals (compared to 30% in Mexico)

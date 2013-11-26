@@ -50,6 +50,7 @@
 	- largely urban
 	- Lagos is largest city in Africa
 		- expected to become one of the 3 largest cities in the world within 20 years
+	- the Yoruba are one of the largest groups brought over as slaves
 - Igbo
 	- most (not all) live in southeast
 	- run by oligarchic council (new members invited to join by standing council members)
