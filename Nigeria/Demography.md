@@ -5,7 +5,7 @@
 
 ## Ethnic Groups
 - 3 large groups (2/3 of population)
-- Housafalani
+- Housa-Fulani
 	- most (not all) live in the north
 	- combination of Housa and Falani in the 19th century
 		- Housa started city states in the north
@@ -13,10 +13,10 @@
 		- 16th century cities had many mosques etc.
 		- wealth of Housa princes rivalled other Islamic kingdoms
 		- ties are northward to other Islamic kingdoms
-		- Falani from western-Sudan
+		- Fulani from western-Sudan
 			- 15th-16th century enter Nigeria become court advisors to Housa
 			- stricter Muslims than Housa
-			- 19th century Falania lead a revolt of Housa masses against Housa princes
+			- 19th century Fulani lead a revolt of Housa masses against Housa princes
 				- partly religious
 				- partly political
 			- Ousmann dal Fario - Falani establishs Califate around Sokoto

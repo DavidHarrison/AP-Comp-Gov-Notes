@@ -1,6 +1,8 @@
 Nigeria Since 1999
 ==================
 
+(from handout)
+
 -   PDP has been a clientilist party
     -   based on old Northern ruling party
 
@@ -211,3 +213,5 @@ IV. Jonathan’s Presidency (2010-present)
         3.  At the same time, the four major opposition political
             parties announced they would band together to fight the PDP
             in the 2015 presidential and National Assembly elections
+
+

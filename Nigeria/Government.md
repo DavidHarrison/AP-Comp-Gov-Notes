@@ -122,7 +122,7 @@ I.  Current structure (Fourth Republic)
     -   Women: 5 in 2007, 7 in 2011
 
 II. Historically, not significant in Nigeria
-    A.  In military regines, legiature was disbanded or ignored
+    A.  In military regimes, legiature was disbanded or ignored
     B.  In elected regimes, it has always been dominated by the same
         party as the President (or PM)
     C.  The national assebly must approve the budget (proposed by the

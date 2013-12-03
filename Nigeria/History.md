@@ -10,7 +10,7 @@ The First Republic (1960-66)
 ----------------------------
 
 -   gained independence from Britain in 1960
--   was prepared for indepenence starting in 1946
+-   was prepared for independence starting in 1946
     -   civil service is Africanized
     -   interim constitution for self-government in the 1950s
         -   divided into three states; North, West and East
