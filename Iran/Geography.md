@@ -1,0 +1,4 @@
+- 3x size of Texas
+- no election of regional governors or local leaders (exception of Mayor of Tehran)
+	- appointed by the central government
+	- responsibility is to implement rather than set policy
