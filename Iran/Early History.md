@@ -270,4 +270,190 @@ III. In exile, Khomeini re-interprets and old Shi'ite religious doctrine
     -   1979 - Iran adopts a constitution based on Khomeini's
         interpretation of velayat-e faqih
 
+The Iranian Revolution
+----------------------
+
+I.  In the late '70s, the Pahlavi Dynasty came under pressure
+    A.  In 1977-78, prices rose 20% while oil revenues dropped
+        1.  Shah cut construction projects
+        2.  Shah blaimed "profiteers" for inflation -- earning him the
+            resentment and fear of the bazaaris (bazaar merchants) (fear
+            that the Shah will open department stores)
+
+    B.  The Shah is under pressure from Western governments, newspapers
+        and NGOs to liberalize the regime
+
+    -   Carter adminstration puts emphasis on human rights
+
+    C.  The Shah is dying of cancer -- wants a political settlement in
+        place before he dies
+        -   only known to the royal family
+
+    -   son is only in his 20s and wants to assure his place
+
+    D.  The Shah begins to liberalize Iran politically -- but
+        liberalization soon escapes his control
+        1.  Iranians from all walks of life call for an end to the
+            monarchy
+
+        2.  Iranian civil society groups quickly reform
+            -   has been seen throughout Iranian history
+            -   unites different political groups against the Shah
+                (Liberal Democrats, Marxists, various Islamists)
+
+II. The Revolution is fought in the streets of Tehran
+    -   unlike other revolutions (Russian, Chinese, Mexican) which were
+        fought as civil wars in the country
+
+    A.  Bloody Friday (8 Sept. 1978) -- troops open fire on peaceful
+        protestors, killing hundreds
+    B.  A general stike paralyzes the country
+        -   includes almost all business (oil, banks, bazaars etc.)
+
+        1.  Local committees, organized by mosques (not on strike), and
+            funded by bazaar merchants, provide food for the hungry
+            people
+        2.  Police begin to disappear from the streets of Tehran and are
+            replaced by volunteer militias (pasdaran). The pasdaran
+            become the Revolutionary Guard Corps.
+            -   police fear that a revolutionary government will seek
+                reprisal
+            -   Revolutionary Guard remains extremely powerful today
+                -   strongest opposition to dealings with the West
+
+    C.  Demonstrations against the Shah attract millions; American
+        politicians and newspapers call for the Shah to resign
+        1.  Shah leaves Iran in Jan. 1979
+
+    2.  Two weeks later, Khomeini returns from Paris
+
+    D.  On the 11 Feb. 1979, guerillas and air force cadets seize the
+        main army barracks, the police station, jails and broadcasting
+        studios or Tehran -- and proclaim the victory of the Islamic
+        Revolution
+        -   broadcasting studios are key, clerics loyal to Khomeini
+            control all broadcasting
+
+III. April 1979, Iranian voters vote overwhelmingly to abolish the
+    monarchy and replace it with an "Islamic Replubic"
+    -   definition of "Islamic Republic" is unclear
+
+    A.  Bazargan, Khomeini's first PM, had wnated to propsoe a
+        "democratic Islamic Republic"
+        -   struck down by Khomeini, saying that Islam was inherently
+            democratic
+
+    B.  Struggle for power among different factions takes place from
+        4/79 to 6/81 -- thousands killed
+        -   variety of Islamists, some are moderate (looking for
+            something more like Turkey), though others are more radical
+            following Khomeini
+        -   many more killed in this struggle than in the Revolution
+            (similar to French Revolution)
+
+IV. A new constitution is drafted in 1979, drafted by the Assembly of
+    Religious Experts
+    A.  The Assembly is popularly elected (by universal suffrage,
+        including women and non-Shi'ites) but the only people allowed to
+        run are Shi'ite clerics
+        1.  During the election, the state media are controlled by
+            Khomeini's clerical allies (senior clerics)
+        2.  Independent newspapers are banned
+        3.  Khomeini's opponents (secularists and moderate Islamists)
+            boycott the election
+            -   done regularly, results in the most radical candidates
+                being elected
+
+        4.  Vigilante groups (hezbollah, "Party of God") intimidate
+            voters
+
+    B.  The constitution incorporates Khomeini's interpretation of
+        veleyat-e faqih (and creates a system of clerical supervision of
+        the government). It does create an elected Majles and an elected
+        president
+        1.  The Constitution thus rests on Shi'ite theology (as
+            interpreted by Khomeini) and Western notions of popular
+            sovereignty and checks-and-balances
+
+    C.  PM Bazargan had wanted a constitution that created a
+        presidential republic. When Bazargan proposes allowing the
+        voters to consider his proposed constitution, the broadcasting
+        media begins a campaign to discredit him
+        -   Bazargan proposal based on the French Fifth Republic, with a
+            strong president (had himself in mind)
+
+    D.  When the Shah comes to the US for medical treatement, Khomeini
+        accuses the US embassy in Tehran of plotting against the regime.
+        A group of students seize the embassy, taking 50 Americans
+        hostage. The students have Khomeini's support
+        -   America takes the position that it will accept any
+            government chosen by the people
+        -   America initially refuses to allow the Shah into the US,
+            though Carter is persuaded to allow him in by various
+            powerful friends of the Shah
+        -   accusations are believable, given that the US has done
+            things in past (including in 1950s Iran)
+        -   embassy had already been taken over a few weeks earlier,
+            which ended when Khomeini demanded that they leave
+
+    1.  when Bazargan tries to persuaded Khomeini to release the
+        hostages, he is rebuffed, exposed as powerless, Bazargan resigns
+        -   much international pressure to free the hostages
+
+    2.  A month later, Iranian voters approve the new constitution
+        -   Khomeini uses the threat of American attack to rally support
+
+        a.  99% vote yes
+        b.  But turnout is only 75%
+
+V.  Iran's first president under the new constitution, Bani-Sadr, is
+    elected in 1980. He wins 75% of the vote and enjoys Khomeini's
+    support
+    A.  Within 17 months, Bani-Sadr is impeached and exiled to France.
+        His foreign minister is executed
+        -   had been with Khomeini during Khomeini's exile in France,
+            was believed to be closely tied to Khomeini until ousting
+
+    B.  Thousands killed in the consolidation of the regions -- most are
+        people who supported the Revolution and worked with the radical
+        Islamists to topple the Shah
+    C.  People from every political faction other then Khomeini's are
+        purged from military and civil service
+    D.  Religious minorities persecuted
+        -   Sunnis
+        -   little persecution
+        -   no Sunni mosques have been allowed in Tehran
+
+    1.  Christians and Zoroastrians suffer job discrimination
+    2.  Jews are persecuted falsly as Israeli spies
+    3.  Baha'i are executed
+
+    E.  Trends/events that contribute to Khomeini's consolidation of
+        power
+        1.  The hostage crisis allows Khomeini to remove all political
+            office holders who disagree with him
+
+        -   Questions loyalty under the threat of American attack
+
+    2.  Iraq attacks in 1980. Khomeini is able to encourage Iranians to
+        rally around him
+        -   8 year war
+        -   \~1/2 million die on each side
+        -   makes appeal to repel the "new Arab invasion"
+
+    3.  The war with Iraq allows Khomeini to increase the level of
+        repression directed against alleged threats
+
+    -   kills and imprisons thousands
+
+    4.  Oil prices rise after the Revolution; and the state has a lot
+        more money to spend. Even though the country is at war, the
+        government is able to spend a lot of money in provding the lives
+        of the rural poor
+        -   education
+        -   electricity
+        -   roads
+        -   plumbing
+        -   medical clinics
+
 
