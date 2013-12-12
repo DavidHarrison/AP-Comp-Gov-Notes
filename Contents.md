@@ -45,6 +45,34 @@
 ## Nigeria
 -   Demography
 -   History
+-   Challenges Facing Nigeria
+-   History
+-   Nigeria Society
+-   PDP
+-   Religion
+-   Clientelism
+-   Jihadist Groups
+-   Nigerian Economic Development
+-   Political Economy
+-   Shariah
+-   Demography
+-   Labor
+-   Now - 8 Years Ago
+-   Political Participation
+-   Since 1999
+-   Government
+-   Nigeria Schematic
+-   Oil
+-   Political Parties
+
+## Iran
+-   Geography
+-   Early History
+-   History
+-   Government
+-   Economy
+-   Islam
+-   Leader
 
 ## Appendix
 -   US/9-11

@@ -382,7 +382,7 @@ IV. A new constitution is drafted in 1979, drafted by the Assembly of
         -   Bazargan proposal based on the French Fifth Republic, with a
             strong president (had himself in mind)
 
-    D.  When the Shah comes to the US for medical treatement, Khomeini
+    D.  When the Shah comes to the US for medical treatment, Khomeini
         accuses the US embassy in Tehran of plotting against the regime.
         A group of students seize the embassy, taking 50 Americans
         hostage. The students have Khomeini's support
@@ -396,7 +396,7 @@ IV. A new constitution is drafted in 1979, drafted by the Assembly of
         -   embassy had already been taken over a few weeks earlier,
             which ended when Khomeini demanded that they leave
 
-    1.  when Bazargan tries to persuaded Khomeini to release the
+    1.  When Bazargan tries to persuaded Khomeini to release the
         hostages, he is rebuffed, exposed as powerless, Bazargan resigns
         -   much international pressure to free the hostages
 
@@ -448,12 +448,10 @@ V.  Iran's first president under the new constitution, Bani-Sadr, is
 
     4.  Oil prices rise after the Revolution; and the state has a lot
         more money to spend. Even though the country is at war, the
-        government is able to spend a lot of money in provding the lives
+        government is able to spend a lot of money in providing the lives
         of the rural poor
         -   education
         -   electricity
         -   roads
         -   plumbing
         -   medical clinics
-
-
