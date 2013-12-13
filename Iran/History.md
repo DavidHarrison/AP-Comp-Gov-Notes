@@ -6,6 +6,7 @@ Recent Iranian Political History
 I.  Elections to the Majlis
     A.  All candidates must be over 30, under 75; first-time candidates
         must be university graduates
+        -   raises some class issues
         1.  All candidates must have a “belief in and commitment in
             practice to Islam and the sacred system of the Islamic
             Republic of Iran” but 5 seats (out of 290) set aside for
@@ -35,11 +36,12 @@ I.  Elections to the Majlis
         1.  Country divided into 28 Majlis constituencies; each
             constituency allocated seats on the basis of its population
         2.  Voting takes place in two rounds Any candidate who wins more
-            than 25% of votes in first round is elected Second round
+            than 25% of votes in first round is elected second round
             held several months later; number of candidates on ballot
             limited to twice the number of seats remaining to be filled;
             candidates are the highest placing candidates not elected in
             first round
+            -    amplifies pluralities
 
 II. Elections for the First Majlis (1980)
     A.  Elections open: 4400 candidates, 40 political parties; 200
@@ -55,12 +57,12 @@ II. Elections for the First Majlis (1980)
             Front favored a secular state.
         3.  The left, splintered among Islamic (but anti-clerical)
             groups (e.g., the Mojahedin), secular groups (e.g., the
-            Fedayin, Tudeh) and supporters of Bani- Sadr (the Islamic
+            Fedayin, Tudeh) and supporters of Bani-Sadr (the Islamic
             Republic’s first president).
 
     C.  The IRP rigged some of the first-round elections; the second
         round elections were postponed indefinitely. When the second
-        round elections were finally held, Bani- Sadr had been forced
+        round elections were finally held, Bani-Sadr had been forced
         into exile, many political parties had been banned, and the
         Mojahedin, Fedayin and Tudeh had been “eliminated. (25,000
         political prisoners executed).
@@ -71,9 +73,11 @@ III. Elections for the Second Majlis (1984)
     A.  The opposition is banned. The IRP controls the media, the civil
         service, the religious foundations and the mosques. The country
         is at war.
-    B.  The IRP wins a landslide victory (but turnout falls from 80% in
-        the first round of the 1980 election to 60%). 54% of Majles
-        deputies elected are clerics.
+    - Clergy controls the media
+    B.  The IRP wins a landslide victory (but turnout falls from 80%
+        (very high) in the first round of the 1980 election to 60%).
+        54% of Majles deputies elected are clerics.
+        - "rally round the flag" effect due to the war
 
 IV. Elections for the Third Majlis (1988)
     A.  Khomeini dissolves the IRP in 1987 due to in-fighting over
@@ -126,6 +130,8 @@ V.  Elections for the Fourth Majlis (1992)
             b.  eliminating privileged access of religious foundations
                 to capital, goods
             c.  cutting state subsidies and raising non-oil taxes
+                -   distorts peoples behavior to waste artificially cheap
+                    goods
             d.  further privatization
 
         4.  Rafsanjani cannot get his program of cultural and further
@@ -135,6 +141,10 @@ V.  Elections for the Fourth Majlis (1992)
             b.  Religious foundations retained privileges
             c.  State subsidies not cut; sales and bus. taxes not raised
             d.  Very little further privatization
+
+        -   after protest of 2009 election protest crackdown, Rafsanjani is
+            removed from the Assembly of Religious Experts, though stays on
+            as head of the Expediency Council
 
 VI. Elections for the Fifth Majlis (1996)
     A.  Rafsanjani starts a new political organization to run
@@ -169,7 +179,7 @@ VII. Elections for the Sixth Majlis (2000) and the Failure of Reform
             be given equal weight in court
         2.  Divorce courts must divide property equally between husbands
             and wives
-        3.  Women, like men, to be offered scholarships to study abroad
+        3.  Women, like men, to be offered scholarships to study abroad (at government expense)
         4.  Private banking permitted
         5.  Some state-owned enterprises privatized
         6.  Privileges of clergy and religious foundations reduced
@@ -180,7 +190,7 @@ VII. Elections for the Sixth Majlis (2000) and the Failure of Reform
 
     C.  The Leader and the GC respond by
         1.  Vetoing most of the legislation as inconsistent with Shari’a
-            and the constitution
+            and the constitution (mostly the social and political changes, economic changes pass)
         2.  Closing down more than 50 pro-reform newspapers and
             prosecuting journalists
 
@@ -197,6 +207,10 @@ VIII. Elections for the Seventh Majlis (2004)
     B.  Conservatives win easily. They are also helped by the presence
         of US troops in Afghanistan and Iraq, and Bush’s “Axis of Evil”
         speech, seen as threatening Iran
+        - younger generation had been sympathetic to the US following 9/11
+        - Iran opposes the Taliban, who are anti-Shi'ite
+            - mistreatment of Hazara
+        - In 2002, Khatami had proposed opening talks with US; Bush declines
     C.  2005 Presidential Elections
         1.  Rafsanjani (now 70) runs against Ahmadinejad (a 49 year-old
             Engineering lecturer who had been appointed Mayor of
@@ -221,7 +235,7 @@ VIII. Elections for the Seventh Majlis (2004)
         of Religious Experts election, becoming the Speaker of the
         Assembly. Clerics close to Ahmadinejad are badly defeated.
 
-IXIV. Elections for the Eighth Majlis (2008)
+IX. Elections for the Eighth Majlis (2008)
     A.  Executive Councils appointed by provincial governors (in turn
         appointed by Ahmadinejad) disqualify 1/3 of candidates
         (including 70% of the reformist candidates and 80 sitting Majlis
@@ -385,5 +399,3 @@ XI. Elections for the Ninth Majlis (2012)
         between \$6 billion and \$7 billion to reach Iran, though the
         international economic sanctions imposed on Iran remain in
         effect.
-
-

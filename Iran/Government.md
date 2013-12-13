@@ -3,6 +3,9 @@ The Structure of Iranian Government
 
 (from handout)
 
+- combines democratic and theocratic government
+    - not a real democracy with political freedom
+
 I.  **The Leader** is the most powerful person in the Iranian government
     -   should be the most knowledgeable in religious law
         -   true of Khomeini
@@ -112,6 +115,7 @@ II. **The President plays** a significant role in national policymaking
             important publicly owned enterprises (e.g., the National
             Iranian Oil Company, the National Electricity Board, the
             National Bank)
+        - can use influence to influence eligibility Majlis
 
     C.  The President heads a bureaucracy consisting of 600,000 civil
         servants and 1.5 million employees
@@ -158,7 +162,7 @@ III. **The Majlis** plays an important role in policymaking
 
 IV. **The Judiciary** remains highly centralized, as it was under the
     Pahlavi Dynasty
-    -   initially it was assumed that a appelate system would not be
+    -   initially it was assumed that a appellate system would not be
         needed given that most public officials had been through
         seminary
 
@@ -193,3 +197,18 @@ IV. **The Judiciary** remains highly centralized, as it was under the
 To view an interactive chart developed by the BBC to explain the
 structure of Iranian government, please visit:\
 http://news.bbc.co.uk/2/shared/spl/hi/middle\_east/03/iran\_power/html/default.stm
+
+    --------The Leader -----> Chief Judge                       President
+    |       (Khameini)        (S. Larijani)                     (Rouhani)
+    |           ^  | |              |                            ^      |
+    v           |  | ------------   |-------------------         |      |
+    Defense     |  |            |   |                  |         |      |
+    Minister    |  ----------   v   v                  v         |      v
+    Army        |           |   Guardian Council    Majlis-------|->The Cabinet
+    IRGC       Assembly of  |   |                     ^          |
+    Police     Religious    |   |                     |          |
+    Basij      Experts      |   |     Expediency      |          |
+    Militia       ^         |   |     Council         |          |
+                  |         |   |                     |          |
+                  |         v   v                     |          |
+                Voters--------------------------------------------
