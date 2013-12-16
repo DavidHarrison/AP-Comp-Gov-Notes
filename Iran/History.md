@@ -7,6 +7,7 @@ I.  Elections to the Majlis
     A.  All candidates must be over 30, under 75; first-time candidates
         must be university graduates
         -   raises some class issues
+
         1.  All candidates must have a “belief in and commitment in
             practice to Islam and the sacred system of the Islamic
             Republic of Iran” but 5 seats (out of 290) set aside for
@@ -41,7 +42,7 @@ I.  Elections to the Majlis
             limited to twice the number of seats remaining to be filled;
             candidates are the highest placing candidates not elected in
             first round
-            -    amplifies pluralities
+            -   amplifies pluralities
 
 II. Elections for the First Majlis (1980)
     A.  Elections open: 4400 candidates, 40 political parties; 200
@@ -73,11 +74,13 @@ III. Elections for the Second Majlis (1984)
     A.  The opposition is banned. The IRP controls the media, the civil
         service, the religious foundations and the mosques. The country
         is at war.
-    - Clergy controls the media
+
+    -   Clergy controls the media
+
     B.  The IRP wins a landslide victory (but turnout falls from 80%
-        (very high) in the first round of the 1980 election to 60%).
-        54% of Majles deputies elected are clerics.
-        - "rally round the flag" effect due to the war
+        (very high) in the first round of the 1980 election to 60%). 54%
+        of Majles deputies elected are clerics.
+        -   "rally round the flag" effect due to the war
 
 IV. Elections for the Third Majlis (1988)
     A.  Khomeini dissolves the IRP in 1987 due to in-fighting over
@@ -130,8 +133,9 @@ V.  Elections for the Fourth Majlis (1992)
             b.  eliminating privileged access of religious foundations
                 to capital, goods
             c.  cutting state subsidies and raising non-oil taxes
-                -   distorts peoples behavior to waste artificially cheap
-                    goods
+                -   distorts peoples behavior to waste artificially
+                    cheap goods
+
             d.  further privatization
 
         4.  Rafsanjani cannot get his program of cultural and further
@@ -142,9 +146,9 @@ V.  Elections for the Fourth Majlis (1992)
             c.  State subsidies not cut; sales and bus. taxes not raised
             d.  Very little further privatization
 
-        -   after protest of 2009 election protest crackdown, Rafsanjani is
-            removed from the Assembly of Religious Experts, though stays on
-            as head of the Expediency Council
+        -   after protest of 2009 election protest crackdown, Rafsanjani
+            is removed from the Assembly of Religious Experts, though
+            stays on as head of the Expediency Council
 
 VI. Elections for the Fifth Majlis (1996)
     A.  Rafsanjani starts a new political organization to run
@@ -179,7 +183,8 @@ VII. Elections for the Sixth Majlis (2000) and the Failure of Reform
             be given equal weight in court
         2.  Divorce courts must divide property equally between husbands
             and wives
-        3.  Women, like men, to be offered scholarships to study abroad (at government expense)
+        3.  Women, like men, to be offered scholarships to study abroad
+            (at government expense)
         4.  Private banking permitted
         5.  Some state-owned enterprises privatized
         6.  Privileges of clergy and religious foundations reduced
@@ -190,7 +195,8 @@ VII. Elections for the Sixth Majlis (2000) and the Failure of Reform
 
     C.  The Leader and the GC respond by
         1.  Vetoing most of the legislation as inconsistent with Shari’a
-            and the constitution (mostly the social and political changes, economic changes pass)
+            and the constitution (mostly the social and political
+            changes, economic changes pass)
         2.  Closing down more than 50 pro-reform newspapers and
             prosecuting journalists
 
@@ -207,10 +213,13 @@ VIII. Elections for the Seventh Majlis (2004)
     B.  Conservatives win easily. They are also helped by the presence
         of US troops in Afghanistan and Iraq, and Bush’s “Axis of Evil”
         speech, seen as threatening Iran
-        - younger generation had been sympathetic to the US following 9/11
-        - Iran opposes the Taliban, who are anti-Shi'ite
-            - mistreatment of Hazara
-        - In 2002, Khatami had proposed opening talks with US; Bush declines
+        -   younger generation had been sympathetic to the US following
+            9/11
+        -   Iran opposes the Taliban, who are anti-Shi'ite
+            -   mistreatment of Shi'ite Hazara by Taliban
+        -   In 2002, Khatami had proposed opening talks with US; Bush
+            declines
+
     C.  2005 Presidential Elections
         1.  Rafsanjani (now 70) runs against Ahmadinejad (a 49 year-old
             Engineering lecturer who had been appointed Mayor of
@@ -235,7 +244,7 @@ VIII. Elections for the Seventh Majlis (2004)
         of Religious Experts election, becoming the Speaker of the
         Assembly. Clerics close to Ahmadinejad are badly defeated.
 
-IX. Elections for the Eighth Majlis (2008)
+IXIV. Elections for the Eighth Majlis (2008)
     A.  Executive Councils appointed by provincial governors (in turn
         appointed by Ahmadinejad) disqualify 1/3 of candidates
         (including 70% of the reformist candidates and 80 sitting Majlis
@@ -266,10 +275,18 @@ X.  The Presidential Elections of 2009 and the Ensuing Political Crisis
         street protests in Iranian cities ensue. Iranian demonstrators
         use social networking internet sites to circumvent restrictions
         on Iranian and foreign press coverage of the protests.
+        -   Western reporters are confined to their hotel room,
+            protestors film demonstrations
+        -   protests are targeted at a Western audience (signs in
+            English)
+
     D.  Khamenei intervenes in the controversy by publicly endorsing the
         election results, even before the Guardian Council recounts a
         sample of the ballots and announces its approval of the election
         results.
+        -   tranforms the protests from being against the election to
+            also being about Khamenei's authority
+
     E.  The Revolutionary Guard and the Basij militias use force to end
         the protests, resulting in the deaths of a number of
         demonstrators, and the arrest of scores of supporters of the
@@ -287,6 +304,11 @@ X.  The Presidential Elections of 2009 and the Ensuing Political Crisis
         Karroubi is later threatened with prosecution and execution when
         he charges that both male and female demonstrators were raped in
         prison.
+        -   Mousavi and Karroubi have been under house arrest since 2009
+        -   Rafsanjani accepts the results, though criticizes use of
+            force, he is forced to step down as the leader of Religious
+            Experts
+
     G.  The Ayatollah Hossein Ali Montazeri criticizes the regime as
         un-Islamic, terming its methods “Stalinist”. Following his death
         of natural causes in December 2009, his funeral (in Qom) becomes
@@ -304,7 +326,7 @@ X.  The Presidential Elections of 2009 and the Ensuing Political Crisis
         2010 are thwarted by sizable security operations; in much of the
         country, telephone, SMS message and internet services are
         blocked. Prominent members of the opposition are attacked
-        (Khatami), arrested (Khatami’s brother and sister-in- law) or
+        (Khatami), arrested (Khatami’s brother and sister-in-law) or
         beaten (Karroubi, Mousavi’s wife) on their way to opposition
         rallies.
     J.  By March 2010, the violent suppression of mass protests by the
@@ -326,7 +348,15 @@ X.  The Presidential Elections of 2009 and the Ensuing Political Crisis
         human rights lawyers and film directors to lengthy prison terms
         and begins a new crackdown on “immoral behavior.” In October
         2011, a university student is lashed 74 times for insulting
-        Ahmadinejad.
+        Ahmadinejad (and given a 6 month prison sentence).
+
+    -   Starting under Khamenei, Iran began to enrich uranium beyond
+        what is necessary for power plants
+        -   Under the Shah, the government had a nuclear research
+            program
+        -   Khomeini had declare nuclear weapons un-Islamic, and shut
+            down the program
+
     L.  In January 2011, the Iranian government begins to phase out
         price subsidies on flour, cooking oil, gasoline, natural gas and
         electricity that consume nearly 10% of Iran’s GDP. The funds
@@ -339,6 +369,10 @@ X.  The Presidential Elections of 2009 and the Ensuing Political Crisis
         tightening of international sanctions) force a delay in
         implementation of the second round of subsidy cuts (from March
         2012 to at least March 2013).
+        -   cash transfers are put on an honor system, 70% of the
+            population signs up
+        -   the majority of the loss is felt by the middle class
+
     M.  In March 2011, Rafsanjani is removed as the Chairman of the
         Assembly of Religious Experts. Meanwhile, the Majlis suspends
         debate on a bill that would place all Iranian NGOs under the
@@ -355,6 +389,9 @@ X.  The Presidential Elections of 2009 and the Ensuing Political Crisis
         insulting Khamenei on his website. Ahmadinejad is further
         humiliated when he is denied permission to visit the press
         advisor in prison).
+        -   **common theme to arrest those around a prominent figure,
+            but not the person themselves**
+
     O.  In 2011, the Iranian state media reports that \$ 2.6 billion has
         been embezzled from Iranian banks by corrupt bank executives.
         Eventually, 39 former bank executives are convicted of fraud;
@@ -367,12 +404,14 @@ XI. Elections for the Ninth Majlis (2012)
     A.  The Interior Ministry removes 17% of the candidates from the
         ballot, including 32 sitting Majlis members. While the
         proportion of disqualified candidates is lower than in 2004 and
-        2008, there is a sharp drop in the number of Iranians presenting
-        themselves as candidates.
+        2008, there is a sharp drop in the number of (reformist)
+        Iranians presenting themselves as candidates.
     B.  The election is largely boycotted by Iran’s opposition, though
         the official first round turnout rate is 64%. Conservatives
         loyal to Khamenei handily defeat conservatives loyal to
         Ahmadinejad; reformists win 75 seats.
+        -   common, though generally leads to the situation worsening
+
     C.  In February 2013, one of the daughters of Mir-Hossein Mousavi is
         jailed. In May 2013, the Guardian Council disqualifies former
         president Rafsanjani from running for president in June.
@@ -386,6 +425,9 @@ XI. Elections for the Ninth Majlis (2012)
         pledges to improve relations with the West in order to persuade
         the international community to lift sanctions that are crippling
         the Iranian economy.
+        -   inflation between 20% and 40%, unemployment is \~20%
+        -   limited by what Khamenei will sign
+
     E.  In office, Rouhani assembles an economic team charged with
         reforming Iran's foundering economy. Rouhani's appointees
         generally favor economic liberalization; many of them served
@@ -399,3 +441,9 @@ XI. Elections for the Ninth Majlis (2012)
         between \$6 billion and \$7 billion to reach Iran, though the
         international economic sanctions imposed on Iran remain in
         effect.
+        -   Iran has agreed to stop refining uranium beyond nuclear
+            power levels, and ship any that they have out of the
+            country, in return, the West frees money from clearing
+            houses for oil already sold by Iran
+        -   Iran does not have remove its capability to refine nor does
+            the west lift sanctions
