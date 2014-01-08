@@ -26,7 +26,7 @@ Dependency ("Dependencia") Theory -- Guillermo O'Donnell
     a way to not be dependent on it
 
 -   many countries, such as Bolivia, Uruguay and Argentina, were once
-    relatively
+    relatively well off
 
 -   the West produces products that require skills and good education
 
@@ -57,7 +57,7 @@ Shah's Regime
     -   Rentier states do not fund significant portions of their
         operations from tax revenues
         -   causes them to be disconnected from the societies they
-            governe
+            governed
         -   Shah was disconnected from people
 
     -   still a Rentier state
@@ -103,7 +103,7 @@ I.  From 1979 to 1988, policy emphasizes the role of the government in
     B.  In the 1980s, the state
         1.  rationed hard currency
         2.  set prices for consumer goods
-        3.  used state-owned banks to incest in key economic sectors
+        3.  used state-owned banks to invest in key economic sectors
         4.  redistributed the assets of those who had fled the country
 
 II. From 1989 to 2005, a much more liberal economic policy is pursued by

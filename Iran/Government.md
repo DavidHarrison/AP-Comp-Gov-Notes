@@ -115,7 +115,7 @@ II. **The President plays** a significant role in national policymaking
             important publicly owned enterprises (e.g., the National
             Iranian Oil Company, the National Electricity Board, the
             National Bank)
-        - can use influence to influence eligibility Majlis
+        -   can use influence to encourange/discourage eligibility Majlis
 
     C.  The President heads a bureaucracy consisting of 600,000 civil
         servants and 1.5 million employees

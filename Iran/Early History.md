@@ -38,22 +38,20 @@ Early Iranian History
                 Muhammed
             -   Sunnis believe that the teachings of the Qu'ran are the
                 *word* of God (through Archangel Gabriel to Muhammed)
-                -   interpretation is settled
+                meaning that the interpretation is settled
 
         -   \~10% Shi'ite
             -   branches such as Alawites etc.
             -   believe that only family of Muhammed can be the Caliph
-            -   Shi'ite has an established clergy
-                -   most members of the clergy have advanced (\~masters
-                    degree) training
-                -   position is dependent on academic reputation
-                    (members or groups in the heirarchy are chosen by
-                    existing members)
+            -   Shi'ite has an established clergy where most members of
+                the clergy have advanced (\~masters degree) training;
+                a cleric's position is dependent on academic reputation
+                (members or groups in the heirarchy are chosen by
+                existing members)
 
             -   encourages debate over interpretation (humans are not
                 able to fully understand God's word, and as we progress,
-                we can understand it better)
-                -   still the *word* of God
+                we can understand it better) (still the *word* of God)
 
         -   initially, this is not a theological, but political dispute,
             only later did it become theological
@@ -69,9 +67,9 @@ Early Iranian History
             the only country governed by Shi'ites
         -   Iran is a theocracy
             -   ruled by clerics who have studied the word of God
-                -   clerics have a veto over all legislation and
-                    candidates for office reviewed for conformism with
-                    the Qu'ran
+                (clerics have a veto over all legislation and
+                candidates for office reviewed for conformism with
+                the Qu'ran)
 
         -   Shari'a is the basis of law
             -   government will punish now, so that there are no
@@ -84,7 +82,7 @@ Early Iranian History
             political reasons
             -   Enemies, the Turks and Arabs were Sunni
 
-The Pahlavi Dynast
+The Pahlavi Dynasty
 ------------------
 
 -   only two kings
@@ -324,8 +322,7 @@ II. The Revolution is fought in the streets of Tehran
     C.  Demonstrations against the Shah attract millions; American
         politicians and newspapers call for the Shah to resign
         1.  Shah leaves Iran in Jan. 1979
-
-    2.  Two weeks later, Khomeini returns from Paris
+        2.  Two weeks later, Khomeini returns from Paris
 
     D.  On the 11 Feb. 1979, guerillas and air force cadets seize the
         main army barracks, the police station, jails and broadcasting
@@ -338,7 +335,7 @@ III. April 1979, Iranian voters vote overwhelmingly to abolish the
     monarchy and replace it with an "Islamic Replubic"
     -   definition of "Islamic Republic" is unclear
 
-    A.  Bazargan, Khomeini's first PM, had wnated to propsoe a
+    A.  Bazargan, Khomeini's first PM, had wanted to propose a
         "democratic Islamic Republic"
         -   struck down by Khomeini, saying that Islam was inherently
             democratic
@@ -424,9 +421,9 @@ V.  Iran's first president under the new constitution, Bani-Sadr, is
         -   little persecution
         -   no Sunni mosques have been allowed in Tehran
 
-    1.  Christians and Zoroastrians suffer job discrimination
-    2.  Jews are persecuted falsly as Israeli spies
-    3.  Baha'i are executed
+        1.  Christians and Zoroastrians suffer job discrimination
+        2.  Jews are persecuted falsly as Israeli spies
+        3.  Baha'i are executed
 
     E.  Trends/events that contribute to Khomeini's consolidation of
         power
@@ -435,16 +432,16 @@ V.  Iran's first president under the new constitution, Bani-Sadr, is
 
         -   Questions loyalty under the threat of American attack
 
-    2.  Iraq attacks in 1980. Khomeini is able to encourage Iranians to
-        rally around him
-        -   8 year war
-        -   \~1/2 million die on each side
-        -   makes appeal to repel the "new Arab invasion"
+        2.  Iraq attacks in 1980. Khomeini is able to encourage Iranians to
+            rally around him
+            -   8 year war
+            -   \~1/2 million die on each side
+            -   makes appeal to repel the "new Arab invasion"
 
-    3.  The war with Iraq allows Khomeini to increase the level of
-        repression directed against alleged threats
+        3.  The war with Iraq allows Khomeini to increase the level of
+            repression directed against alleged threats
 
-    -   kills and imprisons thousands
+        -   kills and imprisons thousands
 
     4.  Oil prices rise after the Revolution; and the state has a lot
         more money to spend. Even though the country is at war, the

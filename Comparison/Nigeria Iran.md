@@ -1,0 +1,37 @@
+# Nigeria Iran Comparison
+## Legitimacy
+    - based not on what outsiders see, but what the citizens see
+    - Sources
+	    - Islam
+                - enforced morality
+                - Supreme Leader (velayat-e faqih)
+                    - Khomeini's appeal
+                - people voted for the constitution
+                - election of clerical candidates
+                - votes to abolish monarch
+                - high voter turnout
+                - however,
+                    - people have left the country
+	    - Democracy
+	        - pre-2009, seemed to have some aspects of a democracy
+	        - post-2009, not so clear that the country was a democracy, suggesting a transformation to military dictatorship (Revolutionary Guard)
+	            - though Ahmadinejad was marginalized
+	            - victory of Rouhani as the moderat candidate
+	            - now it is unclear
+                - voter turnout is high (except for boycotts)
+                - votes to abolish monarchy
+                - Domonstrations in 2003
+                - protests against the 2009 election
+                    - at least until 2009, people believed that the elections matter
+	    - Economics
+                - subsidies (and now cash transfers)
+            - Living Conditions
+                - car ownership
+                - electrification
+                - drop in infant mortality, increase in life expectancy
+                - universal literacy under 40
+                - *does not necessarily imply legitimacy*
+                    - though, Ahmadinejad's 2005 win in rural areas suggests that it might
+	    - Nationalism
+	        - Potential for nuclear weapons
+                - Iran-Iraq war ("rally around the flag")
