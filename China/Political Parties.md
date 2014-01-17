@@ -26,7 +26,7 @@ II.  China's has 8 other political parties
             - businessmen with ties to "Overseas Chinese"
     B.  These parties advise the CCP on policy, and and explain CCP to their sectors
     C. These parties have a combined membership of 500,000. They do *not* question or challenge the monopoly on political power enjoyed by the CCP.
-    D. Every year, when the National People's Congress meets, the CCP convenes the Chinese People's Political Consultatvie Conference in Beijing
+    D. Every year, when the National People's Congress meets, the CCP convenes the Chinese People's Political Consultative Conference in Beijing
         1. The 2000 conferees are invited by the CCP to attend the Conference and give the CCP policy advise. The conferees are either members of China's 8 non-Communist parties or unaffiliated with any party
         2. The Conference is chaired by senior CCP officials
         3. The conferees attend sessions of the National People's Congress as ex-officio (can attend and talk, but not vote) members

@@ -10,15 +10,11 @@
     - the basis of society is relationships between people
         - in the West, the individual has been seen as the center of society
         - relationships are non-egalitarian
-            - a superior and inferior
-                - parent, child
-                - older brother, younger brother
-                - husband, wife
-                - emperor, subject
+            - a superior and inferior (parent/child, older brother/younger brother, husband/wife, emperor/subject)
             - both have duties to each other
-                - the superior has the duty to nurture and protect the inferior
-                - inferior has a responsibility to be loyal and obedient
-                - duties are contingent on reciprocation
+            - the superior has the duty to nurture and protect the inferior
+            - inferior has a responsibility to be loyal and obedient
+            - duties are contingent on reciprocation
             - to fail to fulfil duty is a bad thing
             - historically (until a few years ago), citizens have been able to have local officials investigated by the next level up
         - this ideology has benefitted the party, it is seen having protected its people
